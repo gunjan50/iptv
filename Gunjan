@@ -1,88 +1,71 @@
-#EXTM3U url-tvg="https://tivimateplaylists.live/epg"
 #EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="join our telegram group @tivimateplaylists " tvg-logo="https://previews.123rf.com/images/6kor3dos/6kor3dos1207/6kor3dos120700008/14383324-3d-person-with-megaphone-is-behind-info-letters.jpg",support our telegram group @tivimateplaylists
+#EXTINF:-1,iptvtools_2
 https://rebrand.ly/tvideo
-#EXTINF:-1  tvg-id="1106" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sport 1-Rs19
+#EXTINF:-1,iptvtools_3
 https://tivimateplaylists.live/ss150fps
-#EXTINF:-1  tvg-id="1109" group-title="50FPS @tivimateplaylists" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sport 2- Rs19
+#EXTINF:-1,iptvtools_4
 https://tivimateplaylists.live/ss250fps
-#EXTINF:-1  tvg-id="1108" group-title="50FPS @tivimateplaylists" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sport Hindi- Rs19
+#EXTINF:-1,iptvtools_5
 https://tivimateplaylists.live/ssh50fps
-#EXTINF:-1  tvg-id="N/A" group-title="50FPS @tivimateplaylists" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 Rs 4
+#EXTINF:-1,iptvtools_6
 https://tivimateplaylists.live/ss350fps
-#EXTINF:-1  tvg-id="1132" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png",Star Plus -Rs19
+#EXTINF:-1,iptvtools_7
 https://tivimateplaylists.live/sp50fps
-#EXTINF:-1  tvg-id="1154" group-title="50FPS @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg",Star Gold 2- Rs 1
+#EXTINF:-1,iptvtools_8
 https://tivimateplaylists.live/sg250fps
-#EXTINF:-1  tvg-id="1104" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11191-j9i49t0w-v1/imageContent-11191-j9i49t0w-m1.png",STAR MOVI-Rs 19
+#EXTINF:-1,iptvtools_9
 https://tivimateplaylists.live/sm50fps
-#EXTINF:-1  tvg-id="151" group-title="50FPS @tivimateplaylists" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/MOVIES-NOW-LOGO_7.jpg&w=620&h=350&zc=1&q=100",MOVIES NO-Rs 10
+#EXTINF:-1,iptvtools_11
 https://tivimateplaylists.live/movies-now
-#EXTINF:-1  tvg-id="1105" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png",STAR WORLD -Rs9
+#EXTINF:-1,iptvtools_12
 https://tivimateplaylists.live/sw50fps
-#EXTINF:-1  tvg-id="291" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9088-k6aiezio-v5/imageContent-9088-k6aiezio-m8.png",SET HD - Rs 19
+#EXTINF:-1,iptvtools_13
 https://tivimateplaylists.live/set50fps
-#EXTINF:-1  tvg-id="144" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD-Rs 19
+#EXTINF:-1,iptvtools_14
 https://tivimateplaylists.live/clrs50fps
-#EXTINF:-1  tvg-id="0-9-zeetvhd" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",ZEE TV HD-Rs 19
+#EXTINF:-1,iptvtools_15
 https://tivimateplaylists.live/ztv50fps
-#EXTINF:-1  tvg-id="286" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11221-j9ickbxs-v1/imageContent-11221-j9ickbxs-m1.png",Animal Plan-Rs2
+#EXTINF:-1,iptvtools_16
 https://tivimateplaylists.live/ap50fps
-#EXTINF:-1  tvg-id="463" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png",Discovery H-Rs6
+#EXTINF:-1,iptvtools_17
 https://tivimateplaylists.live/dh50fps
-#EXTINF:-1  tvg-id="568" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery S-Rs1
+#EXTINF:-1,iptvtools_18
 https://tivimateplaylists.live/ds50fps
-#EXTINF:-1  tvg-id="541" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",Discovery T-Rs1
+#EXTINF:-1,iptvtools_19
 https://tivimateplaylists.live/discovery-t50fps
-#EXTINF:-1  tvg-id="N/A" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11429-j9jqu3y0-v1/imageContent-11429-j9jqu3y0-m1.png",FOX Life HD-Rs1
+#EXTINF:-1,iptvtools_20
 https://tivimateplaylists.live/fhd50fps
-#EXTINF:-1  tvg-id="26358063" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",NAT Geo Wild HD-Rs 5
+#EXTINF:-1,iptvtools_21
 https://tivimateplaylists.live/ngw50fps
-#EXTINF:-1  tvg-id="26275262" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National G-Rs10
+#EXTINF:-1,iptvtools_22
 https://tivimateplaylists.live/ng50fps
-#EXTINF:-1  tvg-id="554" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",DISCOVERY K-Rs3
+#EXTINF:-1,iptvtools_23
 https://tivimateplaylists.live/dk50fps
-#EXTINF:-1  tvg-id="479" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD- Rs3
+#EXTINF:-1,iptvtools_24
 https://tivimateplaylists.live/tlc50fps
-#EXTINF:-1  tvg-id="816" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",CARTOON-Rs4.25
+#EXTINF:-1,iptvtools_25
 https://tivimateplaylists.live/cn50fps
-#EXTINF:-1  tvg-id="26285995" group-title="50FPS @tivimateplaylists" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Chan-Rs8
+#EXTINF:-1,iptvtools_26
 https://tivimateplaylists.live/dc50fps
-#EXTINF:-1  tvg-id="26270110" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",Disney Jr.-Rs 4
+#EXTINF:-1,iptvtools_27
 https://tivimateplaylists.live/djr50fps
-#EXTINF:-1  tvg-id="875" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",EUROSPORT - Rs 4
+#EXTINF:-1,iptvtools_28
 https://tivimateplaylists.live/es50fps
-#EXTINF:-1  tvg-id="N/A" group-title="50FPS @tivimateplaylists" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png",hungama tv-Rs 6
-https://tivimateplaylists.live/hung50fps
-#EXTINF:-1  tvg-id="547" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",nick - Rs 6
+#EXTINF:-1,iptvtools_30
 https://tivimateplaylists.live/nik50fps
-#EXTINF:-1  tvg-id="548" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",Nick Jr. - Rs1
+#EXTINF:-1,iptvtools_31
 https://tivimateplaylists.live/nikjr50fps
-#EXTINF:-1  tvg-id="559" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo - Rs 4.25
+#EXTINF:-1,iptvtools_32
 https://tivimateplaylists.live/pog50fps
-#EXTINF:-1  tvg-id="0-9-channel_2105335046" group-title="50FPS @tivimateplaylists" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png",&flix HD-Rs19
-https://tivimateplaylists.live/andf50fps
-#EXTINF:-1  tvg-id="833" group-title="50FPS @tivimateplaylists" tvg-logo="https://i.pinimg.com/564x/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg",HBO - Rs 10
+#EXTINF:-1,iptvtools_34
 https://tivimateplaylists.live/hb050fps
-#EXTINF:-1  tvg-id="N/A" group-title="50FPS @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AXN_Spin_logo_%282015%29.svg/1920px-AXN_Spin_logo_%282015%29.svg.png",AXN SPIN HD- Rs Free
-https://tivimateplaylists.live/axns50fps
-#EXTINF:-1  tvg-id="476" group-title="50FPS @tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png",MAX HD -Rs 17
+#EXTINF:-1,iptvtools_36
 https://tivimateplaylists.live/max50fps
-#EXTINF:-1  tvg-id="477" group-title="50FPS @tivimateplaylists" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",MN+ HD-Rs 10
+#EXTINF:-1,iptvtools_37
 https://tivimateplaylists.live/mnp50fps
-#EXTINF:-1  tvg-id="1110" group-title="50FPS @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movi-Rs 10
+#EXTINF:-1,iptvtools_38
 https://tivimateplaylists.live/sms50fps
-#EXTINF:-1  tvg-id="N/A" group-title="50FPS @tivimateplaylists" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV ACTION-Rs 2
-https://tivimateplaylists.live/utva50fps
-#EXTINF:-1  tvg-id="N/A" group-title="50FPS @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/UTV_Movies_logo.png",UTV MOVIES-Rs 2
-https://tivimateplaylists.live/utvm50fps
-#EXTINF:-1  tvg-id="155" group-title="50FPS @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v2/imageContent-108-j5fl5wwg-m2.png",SIX HD - Rs 19
+#EXTINF:-1,iptvtools_41
 https://tivimateplaylists.live/s650fps
-#EXTINF:-1  tvg-id="162" group-title="50FPS @tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD- Rs 19
+#EXTINF:-1,iptvtools_42
 https://tivimateplaylists.live/st50fps
-#EXTINF:-1  tvg-id="id" group-title="50FPS @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",Mtv Hits
-https://tivimateplaylists.live/mtv350fps
-
-
-
-
