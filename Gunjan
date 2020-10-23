@@ -71,3 +71,42 @@ https://tivimateplaylists.live/s650fps
 https://tivimateplaylists.live/st50fps
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",sony pix HD
 http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/7703.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Nickelodeon
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",UG Nickelodeon
+http://ingrid.ltd:25461/live/Cc1/Cc1/42781.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81024?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
+http://rv.therevenge.co:80/477846155654/477846155654/81029?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX MOVIEMAX
+http://rv.therevenge.co:80/477846155654/477846155654/81195?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX ACTION MAX EAST
+http://rv.therevenge.co:80/477846155654/477846155654/81193?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+http://rv.therevenge.co:80/477846155654/477846155654/79937?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA ACTION
+http://rv.therevenge.co:80/477846155654/477846155654/80133?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIERE
+http://rv.therevenge.co:80/477846155654/477846155654/80129?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",COMEDY CENTRAL
+http://rv.therevenge.co:80/477846155654/477846155654/80207?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS TV HD ASIA
+http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/19632.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY SAB HD
+http://rv.therevenge.co:80/477846155654/477846155654/83701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SAB
+http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/325.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",VIP SONY MAX HD
+http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/5636.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",IN1: Sony Max ᴴᴰ
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/135897?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",VIP SONY HD
+http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/5634.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony TV HD
+http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/313.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony TV HD
+http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/19648.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SONY CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/92533?checkedby:hlscat.com
+
