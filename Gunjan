@@ -489,6 +489,8 @@ https://dx3.gcdn.co/hindi-STARPLUSHDUK/tracks-v1a1/mono.m3u8
 https://dx3.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,|HINDI| zee
 https://jiocdn.fun/jio/jiotv/fucku.php?c=Zee_TV_HD&q=1200&e=.m3u8
+#EXTINF:-1 ,|HINDI| zee
+https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/exp=1603988186~acl=%2f*~data=hdntl~hmac=968919d3c0f7b2b9f84d494f37532fc9dcad0ec5640128be7a7c49c8ca2492ba/index_61.m3u8
 
 
 
