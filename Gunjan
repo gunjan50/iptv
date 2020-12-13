@@ -103,125 +103,865 @@ https://tivimateplaylists.live/sms50fps
 https://tivimateplaylists.live/s650fps
 #EXTINF:-1 group-title="50FPS @tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD- Rs 19
 https://tivimateplaylists.live/st50fps
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
-https://tivimateplaylists.live/dd-news
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
-https://tivimateplaylists.live/ndtv-india
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",CNBC AWAZ
-https://tivimateplaylists.live/cnbc-awaz
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="http://fastway.in/m.fastway/img/logo.png",Fastway News
-https://tivimateplaylists.live/fastway-news
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v1/imageContent-1011-j5ng33kg-m1.png",News 18 Punjab
-https://tivimateplaylists.live/news-18-punjab
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="https://firstindianews.com/images/logo.png",First India News Rajasthan
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png",India TV
-https://tivimateplaylists.live/India-tv
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg",News24
-https://tivimateplaylists.live/news-24
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="https://v3img.voot.com/resizeMedium,w_845,h_475/v3Storage/assets/RETRO-TV-1597511473020.jpg",DD Retro
-https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal
-https://tivimateplaylists.live/Dangal
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11320-j9jlusp4-v1/imageContent-11320-j9jlusp4-m1.png",DD Bharati
-https://tivimateplaylists.live/dd-bharti
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
-https://tivimateplaylists.live/DD-national
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png",DD Punjabi
-https://tivimateplaylists.live/dd-punjabi
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-207/list/09207e24.jpg",E24
-https://tivimateplaylists.live/e-24
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="https://pr24x7.files.wordpress.com/2011/09/firangilogo.jpg",Firangi
-https://tivimateplaylists.live/Firangi
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
-https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony Aath
-https://tivimateplaylists.live/Sony-aath
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
-https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/Shemaroo-16x9-1598935949593.jpg",Shemaroo Tv
-https://tivimateplaylists.live/shemaroo
-#EXTINF:-1 group-title="Info @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC Earth
-https://tivimateplaylists.live/sonybbcerth
-#EXTINF:-1 group-title="Info @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network (Dual Audio)
-https://tivimateplaylists.live/Food-Network
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg",Shemaroo Kids
-https://tivimateplaylists.live/smrukds
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/Cartoon-Network-HD-post.jpg",Cartoon Network HD
-https://tivimateplaylists.live/cartoon-network-hd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png",Sony Yay
-https://tivimateplaylists.live/sony-yay
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",Disney XD
-https://tivimateplaylists.live/disney-xd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
-https://tivimateplaylists.live/discvry-kids
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png",Cbeebies
-https://tivimateplaylists.live/cbeebis
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg",Boomerang
-https://tivimateplaylists.live/boomerang
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png",POP
-https://tivimateplaylists.live/pop-kids
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png",Nick HD+
-https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex HD
-https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg",Filmy
-http://bit.ly/tivimateplaylistsfilmy
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",MAX 2
-https://bit.ly/30dsoNYmaX2
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png",Sony Max HD
-https://bit.ly/32bsOnymAXhd
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",PIX HD
-https://bit.ly/32sOnypIXhd
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah
-https://bit.ly/3j7sOnywAh
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
-https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png",MH1
-https://bit.ly/3byfGF7
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Zoom
-https://bit.ly/3hdoams
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/3b2b356e96a63b7487dc81f45e5ca959_D.jpg",World Punjabi HD
-https://bit.ly/3k67e39
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",Shubhsandesh TV
-https://tivimateplaylists.live/shubh
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg",Studio One Plus
-https://tivimateplaylists.live/studio-one
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddyadagiri/list/386x386/09ddyadagiriddyadagiri.png",DD Yadagiri
-https://tivimateplaylists.live/ddyadgiri
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",TV 5 News
-https://tivimateplaylists.live/tv5tel
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",CVR Health
-https://tivimateplaylists.live/cvrhlth
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0515.MahaaTV.in/1x1/1x/test_pic1558352506850.jpg",Mahaa TV
-https://tivimateplaylists.live/mahatv
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5331.SVBC2.in/1x1/1x/test_pic1558352400877.jpg",SVBC
-https://tivimateplaylists.live/svbc
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="https://www.hindudharmam.in/logo.png",Hindu Dharmam
-https://tivimateplaylists.live/hdm3mx
-#EXTINF:-1 group-title="Telugu @tivimateplaylists" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/CVR_Om.jpeg/revision/latest/scale-to-width-down/340?cb=20191227041802",CVR OM Spiritual
-https://tivimateplaylists.live/cvrommx
-#EXTINF:-1 group-title="Tamil @tivimateplaylists" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXhfwUTKJC4WXeqyMlLnT1tr-LQo2OrijqCQ&usqp=CAU",Jaya Max
-https://tivimateplaylists.live/jaya-max
-#EXTINF:-1 group-title="Marathi @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",STar Parvah
-https://tivimateplaylists.live/starparvah
-#EXTINF:-1 group-title="Marathi @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
-https://tivimateplaylists.live/SonMart
-#EXTINF:-1 group-title="Marathi @tivimateplaylists" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
-https://tivimateplaylists.live/shemrumarathi
-#EXTINF:-1 group-title="Marathi @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
-https://tivimateplaylists.live/9x-jhks
-#EXTINF:-1 group-title="Marathi @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",Abp Majha
-https://tivimateplaylists.live/abpmajh
+#EXTINF:1 tvg-id="472" tvg-name="And TV HD" group-title="JioTV  Hindi  Entertainment" tvg-chno="1" tvg-logo="https://assets.botallen.live/images/j/HaIioVXlTk.png",And TV HD
+https://botallen.live/j/And_TV_HD/master.m3u8?signature=af5aab58a0d69a1a4d34fec8631e0331b6fd4732&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
 
+#EXTINF:2 tvg-id="167" tvg-name="Zee TV HD" group-title="JioTV  Hindi  Entertainment" tvg-chno="2" tvg-logo="https://assets.botallen.live/images/j/FMOHehHJwt.png",Zee TV HD
+https://botallen.live/j/Zee_TV_HD/master.m3u8?signature=31bc1adaf88129cc663b565226a10b359281c731&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:3 tvg-id="144" tvg-name="Colors HD" group-title="JioTV+  Hindi  Entertainment" tvg-chno="3" tvg-logo="https://assets.botallen.live/images/j/tEjAMpwRiI.png",Colors HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Colors_HD_BTS?signature=b87ed3c91536b8491dc97be014c2771863c4abd1&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Colors_HD_BTS/master.mpd?signature=e8459d22e512e67d59951eaf33c4a40e7ddb3dad&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:4 tvg-id="1477" tvg-name="Colors Cineplex HD" group-title="Movies  JioTV  Hindi" tvg-chno="4" tvg-logo="https://assets.botallen.live/images/j/FKXLLtzdXI.png",Colors Cineplex HD
+https://botallen.live/j/Colors_Cineplex_HD/master.m3u8?signature=ef441fe95283369fba62270b30c1a17ed3d00a6d&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:5 tvg-id="291" tvg-name="Sony HD" group-title="JioTV  Hindi  Entertainment" tvg-chno="5" tvg-logo="https://assets.botallen.live/images/j/rtwLQQnflu.png",Sony HD
+https://botallen.live/j/Sony_HD/master.m3u8?signature=cc8c42fbca05a1d7a8ee750e11276664b353770e&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:6 tvg-id="154" tvg-name="Sony SAB" group-title="JioTV  Hindi  Entertainment" tvg-chno="6" tvg-logo="https://assets.botallen.live/images/j/mToXWIcPmy.png",Sony SAB
+https://botallen.live/j/Sony_SAB/master.m3u8?signature=91d61e699949eae65536818136f87de4153cefa6&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:7 tvg-id="471" tvg-name="Sony SAB HD" group-title="JioTV  Hindi  Entertainment" tvg-chno="7" tvg-logo="https://assets.botallen.live/images/j/IMRhVzJXgz.png",Sony SAB HD
+https://botallen.live/j/Sony_SAB_HD/master.m3u8?signature=26dbef8edf9c403f3d1b7a407b6b2e4c1fdc6ab4&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:8 tvg-id="202" tvg-name="DD National" group-title="JioTV+  Hindi  Entertainment" tvg-chno="8" tvg-logo="https://assets.botallen.live/images/j/MOevNqSYYT.png",DD National
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_National_BTS?signature=7baec34a79fd880cdc9c2385d30e2da3953ecbc3&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/DD_National_BTS/master.mpd?signature=d95ec91b01651b13cac3cc5585b3b789ac8bbd79&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:9 tvg-id="473" tvg-name="Zee Anmol" group-title="JioTV  Hindi  Entertainment" tvg-chno="9" tvg-logo="https://assets.botallen.live/images/j/OpMbHDkiQq.png",Zee Anmol
+https://botallen.live/j/Zee_Anmol/master.m3u8?signature=91496a158c59e64967641242523703b2cfb76edd&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:10 tvg-id="279" tvg-name="Rishtey" group-title="JioTV+  Hindi  Entertainment" tvg-chno="10" tvg-logo="https://assets.botallen.live/images/j/dbJHqBvRmo.png",Rishtey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Rishtey_BTS?signature=127988ca1068af38a1c5d72161cb48472b5d35f6&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Rishtey_BTS/master.mpd?signature=002babf5b8a00cb433dc142893c91d51656cb709&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:11 tvg-id="474" tvg-name="Sony Pal" group-title="JioTV  Hindi  Entertainment" tvg-chno="11" tvg-logo="https://assets.botallen.live/images/j/rbwwEwsHey.png",Sony Pal
+https://botallen.live/j/Sony_Pal/master.m3u8?signature=75fd183a99fc814ead88cdf01dbfcd36d9225918&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:12 tvg-id="527" tvg-name="Investigation Discovery" group-title="JioTV  Hindi  Entertainment" tvg-chno="12" tvg-logo="https://assets.botallen.live/images/j/uTpmcLwqvD.PNG",Investigation Discovery
+https://botallen.live/j/ID/master.m3u8?signature=fc11efaef55d61f51db9e02fb3189fc4ae463260&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:13 tvg-id="963" tvg-name="Arre HD" group-title="JioTV  Hindi  Entertainment" tvg-chno="15" tvg-logo="https://assets.botallen.live/images/j/hzDjbAgAiF.png",Arre HD
+https://botallen.live/j/Arre/master.m3u8?signature=d364c2c511758edd6409917b958826a1e3c4f8d5&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:14 tvg-id="841" tvg-name="Housefull Movies" group-title="Movies  JioTV  Hindi" tvg-chno="18" tvg-logo="https://assets.botallen.live/images/j/IZYwZnWxIa.png",Housefull Movies
+https://botallen.live/j/Housefull_Movies/master.m3u8?signature=768abd465f804260228e627c85deff31b776ccfb&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:15 tvg-id="476" tvg-name="Sony Max HD" group-title="Movies  JioTV  Hindi" tvg-chno="22" tvg-logo="https://assets.botallen.live/images/j/JBTjQEpkxg.png",Sony Max HD
+https://botallen.live/j/Sony_Max_HD/master.m3u8?signature=495ae8d9ced3acd116bd9b99556623982d460bac&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:16 tvg-id="165" tvg-name="Zee Cinema HD" group-title="Movies  JioTV  Hindi" tvg-chno="30" tvg-logo="https://assets.botallen.live/images/j/ugzdUsNPDu.png",Zee Cinema HD
+https://botallen.live/j/Zee_Cinema_HD/master.m3u8?signature=d987a1a8d24af3b33f9f7bf8e0540e67bee3824a&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:17 tvg-id="484" tvg-name="Zee Cinema" group-title="Movies  JioTV  Hindi" tvg-chno="32" tvg-logo="https://assets.botallen.live/images/j/IQCGpEGUCZ.png",Zee Cinema
+https://botallen.live/j/Zee_Cinema/master.m3u8?signature=31c84a107a796af1b1bcaecf4fb557cffc0f3d60&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:18 tvg-id="185" tvg-name="And Pictures HD" group-title="Movies  JioTV  Hindi" tvg-chno="37" tvg-logo="https://assets.botallen.live/images/j/UbEJodncvP.png",And Pictures HD
+https://botallen.live/j/And_Pictures_HD/master.m3u8?signature=7cdd1cf48c8ad5538d07849b63bda3f653a926c5&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:19 tvg-id="487" tvg-name="Zee Bollywood" group-title="Movies  JioTV  Hindi" tvg-chno="38" tvg-logo="https://assets.botallen.live/images/j/QthzkHvoIn.png",Zee Bollywood
+https://botallen.live/j/Zee_Classic/master.m3u8?signature=21e397d41bc5439c05e74efa7a4fdc8da29cd962&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:20 tvg-id="182" tvg-name="B4U Movies" group-title="JioTV+  Movies  Hindi" tvg-chno="39" tvg-logo="https://assets.botallen.live/images/j/LkBpdGpxlS.png",B4U Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/B4U_Movies_BTS?signature=5262b8b2ada4e3c81a958f1f1df88fc329b7ec5e&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/B4U_Movies_BTS/master.mpd?signature=bdd1ac915a72950c8cb12b20f1ae8b7bd8146ed6&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:21 tvg-id="483" tvg-name="Sony MAX2" group-title="Movies  JioTV  Hindi" tvg-chno="40" tvg-logo="https://assets.botallen.live/images/j/kFayUEjHpQ.png",Sony MAX2
+https://botallen.live/j/Sony_MAX2/master.m3u8?signature=c3558ebf4b8480eb71d53d268180d602b5dc6357&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:22 tvg-id="488" tvg-name="Zee Action" group-title="Movies  JioTV  Hindi" tvg-chno="41" tvg-logo="https://assets.botallen.live/images/j/DMHOVtarQe.png",Zee Action
+https://botallen.live/j/Zee_Action/master.m3u8?signature=7dd101d26092d131cb8cc7a13e9147305ca9f763&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:23 tvg-id="485" tvg-name="Enterr 10" group-title="JioTV+  Movies  Hindi" tvg-chno="42" tvg-logo="https://assets.botallen.live/images/j/KcrJKtHrAW.png",Enterr 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Enterr_10_BTS?signature=2d5b8f9969dc9d4892c94752ba966173b66e22b7&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Enterr_10_BTS/master.mpd?signature=a67e16e1b6b17bb5318d0e1233e23163f5c78424&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:24 tvg-id="415" tvg-name="Zee Anmol Cinema" group-title="Movies  JioTV  Hindi" tvg-chno="43" tvg-logo="https://assets.botallen.live/images/j/fvoueyIogX.png",Zee Anmol Cinema
+https://botallen.live/j/Zee_Anmol_Cinema/master.m3u8?signature=da4dc521178b186e983d294ba4e14de1e6eddeac&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:25 tvg-id="482" tvg-name="Colors Cineplex" group-title="Movies  JioTV  Hindi" tvg-chno="44" tvg-logo="https://assets.botallen.live/images/j/dbhyDIATqf.png",Colors Cineplex
+https://botallen.live/j/Colors_Cineplex/master.m3u8?signature=6ff7752c73c748e393a100a301307246f1c3940a&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:26 tvg-id="809" tvg-name="Maha Movies" group-title="JioTV+  Movies  Hindi" tvg-chno="45" tvg-logo="https://assets.botallen.live/images/j/PfEmkzbLue.png",Maha Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Maha_Movies_BTS?signature=1a6449aa623fbe6a7d9280938b0a445e72852afa&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Maha_Movies_BTS/master.mpd?signature=3a83a3c69f4d4237340d172bed985be516312c8c&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:27 tvg-id="1276" tvg-name="Box Cinema" group-title="JioTV+  Movies  Hindi" tvg-chno="48" tvg-logo="https://assets.botallen.live/images/j/fcgZYtCnyf.png",Box Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Box_Cinema_MOB?signature=72d5d99bae7b97d01535e988a0778673d749f94d&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Box_Cinema_MOB/master.mpd?signature=b5fa90396644e89e5df8da9866a0e7893b84aa3d&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:28 tvg-id="1430" tvg-name="Jio KIDS" group-title="Kids  JioTV  Hindi" tvg-chno="73" tvg-logo="https://assets.botallen.live/images/j/SewJoaeUcv.png",Jio KIDS
+https://botallen.live/j/Jio_KIDS/master.m3u8?signature=cf7b375cd450fccc937dd55a4ea998846960d120&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:29 tvg-id="528" tvg-name="DD India" group-title="JioTV+  Hindi  Entertainment" tvg-chno="131" tvg-logo="https://assets.botallen.live/images/j/ZyiABYEBbP.png",DD India
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_India_BTS?signature=18db2ae13c09da9ec52adfb8e2280301e0f67917&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/DD_India_BTS/master.mpd?signature=d3872a07d78335c1c031c24401b95824c29d3b5c&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:30 tvg-id="815" tvg-name="Sonic Hindi" group-title="Kids  JioTV  Hindi" tvg-chno="139" tvg-logo="https://assets.botallen.live/images/j/FnJpgPxXzw.png",Sonic Hindi
+https://botallen.live/j/sonic_Hindi/master.m3u8?signature=6e81075878e6da8413173a8a5ecd74c67f6e34bd&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:31 tvg-id="554" tvg-name="Discovery Kids 2" group-title="Kids  JioTV  Hindi" tvg-chno="144" tvg-logo="https://assets.botallen.live/images/j/fKMnzXvUKZ.png",Discovery Kids 2
+https://botallen.live/j/Discovery_Kids_2/master.m3u8?signature=100746d035ff1d6f3d9f528eaa6bc646bf4b2ef9&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:32 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids  JioTV  Hindi" tvg-chno="162" tvg-logo="https://assets.botallen.live/images/j/yXbhLadCcC.png",Nick Hindi
+https://botallen.live/j/Nick_Hindi/master.m3u8?signature=3eb1f2237631433f422ed255bd35fff677b261f0&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:33 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Kids  JioTV  Hindi" tvg-chno="165" tvg-logo="https://assets.botallen.live/images/j/WRCMGeeSkQ.png",Cartoon Network Hindi
+https://botallen.live/j/Cartoon_Network_Hindi/master.m3u8?signature=fd8b3c4755c5f3c754abb8ac1bd9dcbc1eb2fc84&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:34 tvg-id="559" tvg-name="Pogo Hindi" group-title="Kids  JioTV  Hindi" tvg-chno="166" tvg-logo="https://assets.botallen.live/images/j/rTXzJGLpKN.png",Pogo Hindi
+https://botallen.live/j/Pogo_Hindi/master.m3u8?signature=ff6390335f072a87071753d88f8c6f62a7b92c02&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:35 tvg-id="544" tvg-name="Nick Junior" group-title="Kids  JioTV+  Hindi" tvg-chno="174" tvg-logo="https://assets.botallen.live/images/j/XMeSRduvFa.png",Nick Junior
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Nick_Junior_BTS?signature=95290381b561eaf5cf1760bcd8325ac4c3aa9083&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Nick_Junior_BTS/master.mpd?signature=ecefd712b560b791fcdde68caed6d51e0e3a2d61&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:36 tvg-id="872" tvg-name="Sony Yay Hindi" group-title="Kids  JioTV  Hindi" tvg-chno="176" tvg-logo="https://assets.botallen.live/images/j/pRXOahTKqV.png",Sony Yay Hindi
+https://botallen.live/j/Sony_Yay_Hindi/master.m3u8?signature=2f3ad873781fea01a0f8a8a2f1aecc18e7621c7f&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:37 tvg-id="481" tvg-name="Epic" group-title="JioTV  Hindi  Entertainment" tvg-chno="185" tvg-logo="https://assets.botallen.live/images/j/uykQvLexjA.png",Epic
+https://botallen.live/j/Epic_HD/master.m3u8?signature=c53b880885831434a423fcb595d61453e42c8052&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:38 tvg-id="1145" tvg-name="MTV HD Plus" group-title="JioTV+  Music  Hindi" tvg-chno="204" tvg-logo="https://assets.botallen.live/images/j/gCnjVdXpCN.png",MTV HD Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MTV_HD_Plus_BTS?signature=934ae699d9e323177a9118fce8de1bf5084287ac&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/MTV_HD_Plus_BTS/master.mpd?signature=43aefc9cc41e1dafb2587b80c2707c8ed14d1153&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:39 tvg-id="248" tvg-name="MTV" group-title="JioTV  Music  Hindi" tvg-chno="205" tvg-logo="https://assets.botallen.live/images/j/XLUgbzGezH.png",MTV
+https://botallen.live/j/MTV/master.m3u8?signature=a0979bd8a95fc802ad08ffa8a35deb30045ebff7&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:40 tvg-id="587" tvg-name="9XM" group-title="JioTV+  Music  Hindi" tvg-chno="206" tvg-logo="https://assets.botallen.live/images/j/YSGwcxmHUI.jpg",9XM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/9XM_BTS?signature=2dbd24a8b9733bfee751afe5cf59f5a53ead96f7&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/9XM_BTS/master.mpd?signature=d92911d6eced239994738a18798a9a3260cdeae6&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:41 tvg-id="591" tvg-name="E 24" group-title="JioTV+  Music  Hindi" tvg-chno="207" tvg-logo="https://assets.botallen.live/images/j/cVCJjCCGbG.png",E 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/E_24_BTS?signature=4bcf0b8aef37791d9366c002463636ff9fff342f&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/E_24_BTS/master.mpd?signature=bc20f8d56807e2a2b8948380947dbd21cc7bcf9a&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:42 tvg-id="753" tvg-name="MTV Beats HD" group-title="JioTV+  Music  Hindi" tvg-chno="208" tvg-logo="https://assets.botallen.live/images/j/kJJCWyggSO.png",MTV Beats HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MTV_Beats_HD_BTS?signature=1319c23ce5c9ffa5ae014fba0c60ac0dd51d6153&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/MTV_Beats_HD_BTS/master.mpd?signature=af389431c95fede24e669bd9b1ba79410777c1a8&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:43 tvg-id="589" tvg-name="Zee etc" group-title="JioTV  Music  Hindi" tvg-chno="210" tvg-logo="https://assets.botallen.live/images/j/FqxKhoZGPF.png",Zee etc
+https://botallen.live/j/etc/master.m3u8?signature=2aaa12a0c9ef3f3c32542e73803c50298f203fb0&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:44 tvg-id="183" tvg-name="B4U Music" group-title="JioTV+  Music  Hindi" tvg-chno="211" tvg-logo="https://assets.botallen.live/images/j/iWAgMzgcns.png",B4U Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/B4U_Music_BTS?signature=06eb028f67914edaf71ac75999380023910f35fa&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/B4U_Music_BTS/master.mpd?signature=662699e743469249d9f9459c993b4d2c5d9ecf0e&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:45 tvg-id="584" tvg-name="Mastiii" group-title="JioTV+  Music  Hindi" tvg-chno="212" tvg-logo="https://assets.botallen.live/images/j/hMpYOMKaek.png",Mastiii
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Mastiii_BTS?signature=5963520e9fee87833df6f36a3bfefea4caa3b33b&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Mastiii_BTS/master.mpd?signature=52d5f639ab71e470ec848512afb58ed19991294d&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:46 tvg-id="440" tvg-name="9X Jalwa" group-title="JioTV+  Music  Hindi" tvg-chno="214" tvg-logo="https://assets.botallen.live/images/j/NihsRsOwBH.png",9X Jalwa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/9X_Jalwa_BTS?signature=10f2795e6ea35c0f7e752e8e9651ad1c7df71542&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/9X_Jalwa_BTS/master.mpd?signature=fed07ce9b2d1255fbd867430c7da88557d5ed883&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:47 tvg-id="585" tvg-name="Zing" group-title="JioTV  Music  Hindi" tvg-chno="215" tvg-logo="https://assets.botallen.live/images/j/fRZdEzXvHM.png",Zing
+https://botallen.live/j/Zing/master.m3u8?signature=93aba10aaeb54be92ea50e77f66ee3ba4675fb31&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:48 tvg-id="250" tvg-name="Music India" group-title="JioTV+  Music  Hindi" tvg-chno="216" tvg-logo="https://assets.botallen.live/images/j/nhrTWptAga.png",Music India
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Music_India_BTS?signature=37a0f5e3603df5edc82e1a5ef78dd28d0ca4f8d8&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Music_India_BTS/master.mpd?signature=20c3754e926ea51a5ffdb19432edfb15f44f2524&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:49 tvg-id="533" tvg-name="Raj Pariwar" group-title="JioTV+  Hindi  Entertainment" tvg-chno="220" tvg-logo="https://assets.botallen.live/images/j/HXgwdibOKg.png",Raj Pariwar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Raj_Pariwar_BTS?signature=64a8ee32836d6a20a75a0613cf52e0be3f8f3d1d&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Raj_Pariwar_BTS/master.mpd?signature=7c47647d324b25005d61a995e8c22199c3499714&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:50 tvg-id="1280" tvg-name="Manoranjan TV" group-title="Movies  JioTV  Hindi" tvg-chno="221" tvg-logo="https://assets.botallen.live/images/j/euHrqDIxNj.png",Manoranjan TV
+https://botallen.live/j/Manoranjan_TV/master.m3u8?signature=e72143075d3b4bb890b51db855d56aefedc88711&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:51 tvg-id="1295" tvg-name="B4U Kadak" group-title="JioTV+  Movies  Hindi" tvg-chno="222" tvg-logo="https://assets.botallen.live/images/j/McluvlKNEt.png",B4U Kadak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/B4U_Kadak_MOB?signature=dbcaa781840b2246caae08e74896b7ca80d0ab66&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/B4U_Kadak_MOB/master.mpd?signature=076048c2db23d39e12faab6ae35d319794ca7cf4&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:52 tvg-id="1286" tvg-name="Insync" group-title="JioTV+  Music  Hindi" tvg-chno="224" tvg-logo="https://assets.botallen.live/images/j/HLcWQtKiJv.png",Insync
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Insync_MOB?signature=32551aa2105ac63d3724d3dbb2a67527d16706da&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Insync_MOB/master.mpd?signature=83e031978ec77944e8d76b2b97cf5c1bcbb40759&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:53 tvg-id="1267" tvg-name="iLove" group-title="JioTV+  Music  Hindi" tvg-chno="227" tvg-logo="https://assets.botallen.live/images/j/mWotHDnmou.png",iLove
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/iLove_MOB?signature=9e3bbf3ea38c42df4ac9a3149b215d0b391f352e&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/iLove_MOB/master.mpd?signature=8f9bb3f0630fbdd53e60affe30f01d51be8c19f8&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:54 tvg-id="1266" tvg-name="Bflix Movies" group-title="JioTV+  Movies  Hindi" tvg-chno="237" tvg-logo="https://assets.botallen.live/images/j/IjQGhrcVpa.png",Bflix Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Bflix_Movies_MOB?signature=469352b07d551dc46259453840fd714586658504&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Bflix_Movies_MOB/master.mpd?signature=c8751568e7c9d913c0e32659b1c487aced7ba6a3&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:55 tvg-id="1393" tvg-name="Sony Wah" group-title="JioTV  Hindi  Entertainment" tvg-chno="250" tvg-logo="https://assets.botallen.live/images/j/JDwzvrTQMT.png",Sony Wah
+https://botallen.live/j/Sony_Wah/master.m3u8?signature=d1deaaa85fd67fe0cfc8bd83e8d6abeecd3cb6aa&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:56 tvg-id="1411" tvg-name="SongDew TV" group-title="JioTV  Music  Hindi" tvg-chno="254" tvg-logo="https://assets.botallen.live/images/j/lCOTfZbfNO.png",SongDew TV
+https://botallen.live/j/SongDew_TV/master.m3u8?signature=658e9dc489c44062b022d21be73ac302377af693&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:57 tvg-id="1396" tvg-name="Sony SD" group-title="JioTV  Hindi  Entertainment" tvg-chno="255" tvg-logo="https://assets.botallen.live/images/j/KWYqXGFMtd.png",Sony SD
+https://botallen.live/j/Sony_SD/master.m3u8?signature=e1e0adb93c0271c90cd9c8871bc8845bc9bc5afd&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:58 tvg-id="1450" tvg-name="Rishtey Cineplex" group-title="Movies  JioTV  Hindi" tvg-chno="259" tvg-logo="https://assets.botallen.live/images/j/kfrwTbdlAp.png",Rishtey Cineplex
+https://botallen.live/j/Rishtey_Cineplex/master.m3u8?signature=30e2a8a42829cb8d28dfc8978cea0953371f6009&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:59 tvg-id="532" tvg-name="Dabangg" group-title="JioTV  Hindi  Entertainment" tvg-chno="302" tvg-logo="https://assets.botallen.live/images/j/OUTSuWMfID.png",Dabangg
+https://botallen.live/j/Dabangg/master.m3u8?signature=77d2a90f3000557f259a4debf9cc39caa3e757f7&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:60 tvg-id="538" tvg-name="DD Rajasthan (Jaipur)" group-title="JioTV+  Hindi  Entertainment" tvg-chno="321" tvg-logo="https://assets.botallen.live/images/j/WqfWBadyTO.png",DD Rajasthan (Jaipur)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Rajasthan_Jaipur_BTS?signature=652d1f38c45c90daeebee8cded002e7460b04f6c&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/DD_Rajasthan_Jaipur_BTS/master.mpd?signature=fc3f4f3fe38f43f0252d84a6ce7d1f359bf7298c&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:61 tvg-id="539" tvg-name="DD Bihar" group-title="JioTV+  Hindi  Entertainment" tvg-chno="322" tvg-logo="https://assets.botallen.live/images/j/YuzBxLOjtS.png",DD Bihar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Bihar_BTS?signature=b1eaaae96075411521f1977c1f4079d090821da2&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/DD_Bihar_BTS/master.mpd?signature=845d6034aa70993f99c8d96e832a4e2bf9d1e647&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:62 tvg-id="536" tvg-name="DD Madhya Pradesh" group-title="JioTV+  Hindi  Entertainment" tvg-chno="323" tvg-logo="https://assets.botallen.live/images/j/zGTFdQuxCE.png",DD Madhya Pradesh
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Madhya_Pradesh_BTS?signature=226d87ba89f30e5667149d28c1f71474b8675412&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/DD_Madhya_Pradesh_BTS/master.mpd?signature=78de452dff399263b83b170c18176414f175c3cf&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:63 tvg-id="1076" tvg-name="Andy Haryana" group-title="JioTV+  Hindi  Entertainment" tvg-chno="483" tvg-logo="https://assets.botallen.live/images/j/EKqMMRSLSq.png",Andy Haryana
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Andy_Haryana_BTS?signature=60e8fd19453a6df6f520de61aa6b9d150089464e&unique=0294bb66eb4ace66b5b556bbaf33573a
+https://botallen.live/j/Andy_Haryana_BTS/master.mpd?signature=6068dba4d6e6e93f8e27b502da0f7e73b4d4e08d&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:64 tvg-id="534" tvg-name="Dillagi TV" group-title="JioTV  Hindi  Entertainment" tvg-chno="485" tvg-logo="https://assets.botallen.live/images/j/qbdNOwKNgu.png",Dillagi TV
+https://botallen.live/j/Dillagi_TV/master.m3u8?signature=eaa99149c19fd0c3bb8e2d0056154defcb6a9397&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:65 tvg-id="535" tvg-name="Dhamaal TV" group-title="JioTV  Hindi  Entertainment" tvg-chno="487" tvg-logo="https://assets.botallen.live/images/j/oPGFiUThvq.png",Dhamaal TV
+https://botallen.live/j/Dhamaal_TV/master.m3u8?signature=e6b7f29b938b6ca21812a08585ce49dcca81dda6&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:66 tvg-id="1279" tvg-name="Manoranjan Grand" group-title="JioTV  Hindi  Entertainment" tvg-chno="488" tvg-logo="https://assets.botallen.live/images/j/YcmqMTfKMN.png",Manoranjan Grand
+https://botallen.live/j/Manoranjan_Grand/master.m3u8?signature=172b159ee2d82d6dfabeeac4bd5e8b423b12e8a3&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:67 tvg-id="1258" tvg-name="Surya Cinema" group-title="Movies  JioTV  Hindi" tvg-chno="516" tvg-logo="https://assets.botallen.live/images/j/kClcaNOxNg.png",Surya Cinema
+https://botallen.live/j/Surya_Cinema/master.m3u8?signature=f97f496d5abc7e0da78ee88520251cdb0c6bb98e&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:68 tvg-id="289" tvg-name="Sony Max SD" group-title="Movies  JioTV  Hindi" tvg-chno="522" tvg-logo="https://assets.botallen.live/images/j/HOeymDVETh.png",Sony Max SD
+https://botallen.live/j/SET_MAX/master.m3u8?signature=62b09c83a40c4869c3cb120f5779b8d3e5b797d9&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=KAIOS
+
+#EXTINF:69 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" group-title="Zee5  Hindi  Entertainment" tvg-chno="525" tvg-logo="https://assets.botallen.live/images/z/VcyUCTcLxM.png",&TV HD
+https://botallen.live/z/0-9-tvhd_0/master.m3u8?signature=5b8dece305501ae9227e1685b140a2c50576d001&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:70 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" group-title="Zee5  Movies  Hindi  Entertainment" tvg-chno="526" tvg-logo="https://assets.botallen.live/images/z/bxbSPBbIna.png",&Pictures HD
+https://botallen.live/z/0-9-tvpictureshd/master.m3u8?signature=557e1fe16b659092aed6d480a9fd41fff35e6c8e&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:71 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" group-title="Zee5  Movies  Hindi" tvg-chno="527" tvg-logo="https://assets.botallen.live/images/z/GFBfKOLpVk.png",Zee Cinema
+https://botallen.live/z/0-9-zeecinema/master.m3u8?signature=b61d53d7165e96db28c6c37c63c2724f401bd804&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:72 tvg-id="0-9-zeetv" tvg-name="Zee TV" group-title="Zee5  Hindi  Entertainment" tvg-chno="528" tvg-logo="https://assets.botallen.live/images/z/rhYkApJETY.png",Zee TV
+https://botallen.live/z/0-9-zeetv/master.m3u8?signature=99207adebbe3d545b7d58e1d6d07dd584064c802&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:73 tvg-id="0-9-209" tvg-name="&xplorHD" group-title="Zee5  Movies  Hindi" tvg-chno="529" tvg-logo="https://assets.botallen.live/images/z/yWzdkgPYse.png",&xplorHD
+https://botallen.live/z/0-9-209/master.m3u8?signature=2d6449168f67d07c69077c6d6a001b947aa70cc8&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:74 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" group-title="Zee5  Movies  Hindi" tvg-chno="530" tvg-logo="https://assets.botallen.live/images/z/phWZgucUCw.png",Zee Cinema HD
+https://botallen.live/z/0-9-zeecinemahd/master.m3u8?signature=85f20f282664dc875275c805f0289203c412df0b&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:75 tvg-id="0-9-zing" tvg-name="Zing" group-title="Zee5  Music  Hindi  Entertainment" tvg-chno="531" tvg-logo="https://assets.botallen.live/images/z/gxYXDknovz.png",Zing
+https://botallen.live/z/0-9-zing/master.m3u8?signature=a034ad7348a5dbab8e097011ad87953fb56b2520&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:76 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" group-title="Zee5  Hindi  Entertainment" tvg-chno="532" tvg-logo="https://assets.botallen.live/images/z/skoqHhdiqY.png",Zee TV HD
+https://botallen.live/z/0-9-zeetvhd/master.m3u8?signature=ee0908007f3d6acff90349842b0b634f201a5329&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:77 tvg-id="0-9-290" tvg-name="ZEE5 Kids" group-title="Kids  Zee5  Hindi" tvg-chno="539" tvg-logo="https://assets.botallen.live/images/z/WdiguOJUNX.png",ZEE5 Kids
+https://botallen.live/z/0-9-290/master.m3u8?signature=76e5b415afae6a953c28b558ec101b2c571d932b&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:78 tvg-id="0-9-etc" tvg-name="Zee ETC Bollywood" group-title="Zee5  Music  Hindi  Entertainment" tvg-chno="551" tvg-logo="https://assets.botallen.live/images/z/spDorJTNtD.png",Zee ETC Bollywood
+https://botallen.live/z/0-9-etc/master.m3u8?signature=118505c08096b43cd8b3f3fce644aa6b355e40c5&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:79 tvg-id="0-9-176" tvg-name="Zee Classic" group-title="Zee5  Movies  Hindi" tvg-chno="552" tvg-logo="https://assets.botallen.live/images/z/PrENIiJwQh.png",Zee Classic
+https://botallen.live/z/0-9-176/master.m3u8?signature=d07781b1c9ed5c3ed7a01adcf1bc396324777a2f&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:80 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" group-title="Zee5  Movies  Hindi" tvg-chno="556" tvg-logo="https://assets.botallen.live/images/z/ACScurquYf.png",Zee Bollywood
+https://botallen.live/z/0-9-zeeclassic/master.m3u8?signature=8bb72049f2020cab29cb93efa1ec9271c3b00b18&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:81 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" group-title="Zee5  Hindi  Entertainment" tvg-chno="559" tvg-logo="https://assets.botallen.live/images/z/sxrzQwZPlV.png",Zee Anmol
+https://botallen.live/z/0-9-zeeanmol/master.m3u8?signature=4be6c01c0848881bde78b86715c48ad57b1a9e24&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:82 tvg-id="0-9-zeeaction" tvg-name="Zee Action" group-title="Zee5  Movies  Hindi" tvg-chno="560" tvg-logo="https://assets.botallen.live/images/z/DYpJFgWnIk.png",Zee Action
+https://botallen.live/z/0-9-zeeaction/master.m3u8?signature=dc64880723b2cae6a75d214b054e9db08bf448db&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:83 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" group-title="Zee5  Movies  Hindi" tvg-chno="570" tvg-logo="https://assets.botallen.live/images/z/YrEDvoQqIw.png",Zee Anmol Cinema
+https://botallen.live/z/0-9-zeeanmolcinema/master.m3u8?signature=19571b8ab007f18e03a39d068b9880867d79f42c&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:84 tvg-id="0-9-181" tvg-name="The Q" group-title="Zee5  Hindi  Entertainment" tvg-chno="573" tvg-logo="https://assets.botallen.live/images/z/SudAejvzDG.png",The Q
+https://botallen.live/z/0-9-181/master.m3u8?signature=05665c7f7e47f2935eb145e5ee87db51e8d75721&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:85 tvg-id="0-9-299" tvg-name="Sounds of ZEE5 - Originals" group-title="Zee5  Music  Hindi  Entertainment" tvg-chno="581" tvg-logo="https://assets.botallen.live/images/z/UXNbZKicmj.png",Sounds of ZEE5 - Originals
+https://botallen.live/z/0-9-299/master.m3u8?signature=023c44c26587a0761a90cc6a15edfaf203caa3ed&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:86 tvg-id="0-9-219" tvg-name="Showbox" group-title="Zee5  Music  Hindi" tvg-chno="586" tvg-logo="https://assets.botallen.live/images/z/kvpBsVOGzM.png",Showbox
+https://botallen.live/z/0-9-219/master.m3u8?signature=b1bfafc58b61ff68fee4294bb995d0495f5b1e50&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:87 tvg-id="0-9-207" tvg-name="E24" group-title="Zee5  Hindi" tvg-chno="624" tvg-logo="https://assets.botallen.live/images/z/tVinYtJsjm.png",E24
+https://botallen.live/z/0-9-207/master.m3u8?signature=4c40b53ad3fc055e7b3834da32d73ab5717cd15a&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:88 tvg-id="0-9-ddurdu" tvg-name="DD Urdu" group-title="Zee5  Hindi  Entertainment" tvg-chno="627" tvg-logo="https://assets.botallen.live/images/z/iRvPULYCGP.png",DD Urdu
+https://botallen.live/z/0-9-ddurdu/master.m3u8?signature=c2c88ac6afd5d4b9e16111d91bbe759c4cf68859&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:89 tvg-id="0-9-250" tvg-name="DD National HD" group-title="Zee5  Hindi  Entertainment" tvg-chno="631" tvg-logo="https://assets.botallen.live/images/z/OdihddpqgE.png",DD National HD
+https://botallen.live/z/0-9-250/master.m3u8?signature=759f9bd0d566f7d6c8502827b25952eeb27aaf33&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:90 tvg-id="0-9-ddmadhyapradesh" tvg-name="DD Madhya Pradesh" group-title="Zee5  Hindi  Entertainment" tvg-chno="632" tvg-logo="https://assets.botallen.live/images/z/BGPmugnIzO.png",DD Madhya Pradesh
+https://botallen.live/z/0-9-ddmadhyapradesh/master.m3u8?signature=8c57fc39d66800b0f4645d26e3ea14a10e77a2ee&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:91 tvg-id="0-9-dduttarpradesh" tvg-name="DD Uttar Pradesh" group-title="Zee5  Hindi  Entertainment" tvg-chno="634" tvg-logo="https://assets.botallen.live/images/z/OdteFidtjs.png",DD Uttar Pradesh
+https://botallen.live/z/0-9-dduttarpradesh/master.m3u8?signature=32003c6d4cfa122cc27e1036730c7b5f94130105&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:92 tvg-id="0-9-ddbharati" tvg-name="DD Bharati" group-title="Zee5  Hindi  Entertainment" tvg-chno="639" tvg-logo="https://assets.botallen.live/images/z/DTgkMBGYuc.png",DD Bharati
+https://botallen.live/z/0-9-ddbharati/master.m3u8?signature=66fb4ca4b562649f53b69553e9c3f2e8dc2a22f3&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:93 tvg-id="0-9-ddbihar" tvg-name="DD Bihar" group-title="Zee5  Hindi  Entertainment" tvg-chno="641" tvg-logo="https://assets.botallen.live/images/z/kGwEteqkXF.png",DD Bihar
+https://botallen.live/z/0-9-ddbihar/master.m3u8?signature=8e90992a42789713f379cf08d4c76a3b530069c3&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:94 tvg-id="0-9-ddrajasthanjaipur" tvg-name="DD Rajasthan" group-title="Zee5  Hindi  Entertainment" tvg-chno="644" tvg-logo="https://assets.botallen.live/images/z/PJEpgjqgnH.png",DD Rajasthan
+https://botallen.live/z/0-9-ddrajasthanjaipur/master.m3u8?signature=e5cbb3d686da5da1c434ba173fbc40e5647ad73d&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:95 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" group-title="Zee5  Hindi  Entertainment" tvg-chno="645" tvg-logo="https://assets.botallen.live/images/z/xSjflcCGfq.png",Big Magic
+https://botallen.live/z/0-9-bigmagic_1786965389/master.m3u8?signature=36ba98688fd754792bb3c7073ccd08f4f49f291d&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:96 tvg-id="0-9-165" tvg-name="Boogle Bollywood" group-title="Zee5  Hindi  Entertainment" tvg-chno="648" tvg-logo="https://assets.botallen.live/images/z/kPwsEQqEul.png",Boogle Bollywood
+https://botallen.live/z/0-9-165/master.m3u8?signature=9218e68ff7f2753ab49ffa16e5196f72f91807ca&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:97 tvg-id="0-9-131" tvg-name="9XM" group-title="Zee5  Music  Hindi  Entertainment" tvg-chno="650" tvg-logo="https://assets.botallen.live/images/z/fKAvglboZM.png",9XM
+https://botallen.live/z/0-9-131/master.m3u8?signature=23af7012f3ac4d4d5fda55a2f355364f799bdd35&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:98 tvg-id="0-9-133" tvg-name="9X Jalwa" group-title="Zee5  Music  Hindi  Entertainment" tvg-chno="653" tvg-logo="https://assets.botallen.live/images/z/fBEytHawoJ.png",9X Jalwa
+https://botallen.live/z/0-9-133/master.m3u8?signature=a3e533fe4b1beb818bab43dbf8ea306412fbc97a&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:99 tvg-id="0-9-pictures" tvg-name="&Pictures" group-title="Zee5  Movies  Hindi" tvg-chno="655" tvg-logo="https://assets.botallen.live/images/z/nfHXhjmAhb.png",&Pictures
+https://botallen.live/z/0-9-pictures/master.m3u8?signature=aee2ddb71947739bb595c1c759bc9c26e0633dc8&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=Zee5
+
+#EXTINF:100 tvg-id="SETHD" tvg-name="SET Live" group-title="SonyLIV  Hindi  Drama" tvg-chno="659" tvg-logo="https://assets.botallen.live/images/s/FjapDmZsuL.png",SET Live
+https://botallen.live/s/SETHD/master.m3u8?signature=28aeeb7aeea84aab7968a8ec775048171b08ec98&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:101 tvg-id="SABHD" tvg-name="SAB" group-title="SonyLIV  Hindi  Comedy" tvg-chno="660" tvg-logo="https://assets.botallen.live/images/s/cIUVFfnXLv.png",SAB
+https://botallen.live/s/SABHD/master.m3u8?signature=480b3bee2546b144ec06b8ee589fc1652a21e8c9&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:102 tvg-id="SonyPalSD" tvg-name="PAL" group-title="SonyLIV  Hindi  Drama" tvg-chno="662" tvg-logo="https://assets.botallen.live/images/s/ROObckJTsX.png",PAL
+https://botallen.live/s/SonyPalSD/master.m3u8?signature=c143e1ad92fe944070068903b9e738b221bfbc7f&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:103 tvg-id="SonyYaySD" tvg-name="Sony YAY" group-title="Kids  Hindi  SonyLIV" tvg-chno="664" tvg-logo="https://assets.botallen.live/images/s/fgxUmALSMH.png",Sony YAY
+https://botallen.live/s/SonyYaySD/master.m3u8?signature=fd25221ea703b3a9531f46fd4a281165659269a3&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:104 tvg-id="SonyMaxhd" tvg-name="MAX" group-title="SonyLIV  Bollywood  Hindi" tvg-chno="665" tvg-logo="https://assets.botallen.live/images/s/QBsnYVxoLL.png",MAX
+https://botallen.live/s/SonyMaxhd/master.m3u8?signature=36e534f52d310be2c66b27b85ea2b976e1fbd362&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:105 tvg-id="SonyWah" tvg-name="Sony WAH" group-title="SonyLIV  Action  Hindi" tvg-chno="666" tvg-logo="https://assets.botallen.live/images/s/ckGoaRDTRy.png",Sony WAH
+https://botallen.live/s/SonyWah/master.m3u8?signature=4132d99b4b867c2801cd958575235bd8c420847a&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:106 tvg-id="SonyMaxSD" tvg-name="Sony MAX SD" group-title="SonyLIV  Bollywood  Hindi" tvg-chno="677" tvg-logo="https://assets.botallen.live/images/s/sCpurjCVrQ.png",Sony MAX SD
+https://botallen.live/s/SonyMaxSD/master.m3u8?signature=e1a1ff4f6402223280e332075a9aaaf1d25c99e3&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:107 tvg-id="MAX2" tvg-name="Sony MAX 2 SD" group-title="SonyLIV  Hindi  Drama" tvg-chno="678" tvg-logo="https://assets.botallen.live/images/s/SXYZOkZSxV.png",Sony MAX 2 SD
+https://botallen.live/s/MAX2/master.m3u8?signature=d35afd56301638d6ddfb816f6079bd6efd86e69e&unique=0294bb66eb4ace66b5b556bbaf33573a|User-Agent=SonyLIV
+
+#EXTINF:108 tvg-id="ts3" tvg-name="Ruposhi Bangla" group-title="TataSky  Entertainment" tvg-chno="680" tvg-logo="https://assets.botallen.live/images/t/AGnRjMbkjS.png",Ruposhi Bangla
+https://botallen.live/t/3/master.m3u8?signature=e6b484ce9d42aabbe37b0d2a9b8880f72227b710&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:109 tvg-id="ts7" tvg-name="B4U Movies" group-title="Movies  TataSky" tvg-chno="682" tvg-logo="https://assets.botallen.live/images/t/PvMxAMNlWc.png",B4U Movies
+https://botallen.live/t/7/master.m3u8?signature=95fc2cad243dc23bb81af6eedcb037fd81a68b9c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:110 tvg-id="ts8" tvg-name="STAR Plus HD" group-title="TataSky  HD  Entertainment" tvg-chno="683" tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png",STAR Plus HD
+https://botallen.live/t/8/master.m3u8?signature=8716a481f47c49d8ff022ae6fc0c9eb0bdb622f1&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:111 tvg-id="ts9" tvg-name="B4U Music" group-title="Music  TataSky" tvg-chno="684" tvg-logo="https://assets.botallen.live/images/t/JXEgBsKHbG.png",B4U Music
+https://botallen.live/t/9/master.m3u8?signature=df1dd908bab91d0158e7b5c544c5365f440ba12e&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:112 tvg-id="ts12" tvg-name="Big Ganga" group-title="TataSky  Entertainment" tvg-chno="686" tvg-logo="https://assets.botallen.live/images/t/uMkgOGiuob.png",Big Ganga
+https://botallen.live/t/12/master.m3u8?signature=87583b69a6e0e1561587ed22433d564d7af32c89&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:113 tvg-id="ts15" tvg-name="SET HD" group-title="TataSky  HD  Entertainment" tvg-chno="688" tvg-logo="https://assets.botallen.live/images/t/NLsiRqLRYL.png",SET HD
+https://botallen.live/t/15/master.m3u8?signature=7e15304710d161c73235247959cccac784b9ae24&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:114 tvg-id="ts17" tvg-name="Mastiii" group-title="Music  TataSky" tvg-chno="689" tvg-logo="https://assets.botallen.live/images/t/eOqUomLcuf.png",Mastiii
+https://botallen.live/t/17/master.m3u8?signature=dea8ce25436b01c195bffb680b14738eb628e654&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:115 tvg-id="ts32" tvg-name="SONY PIX HD" group-title="Movies  HD  TataSky" tvg-chno="695" tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png",SONY PIX HD
+https://botallen.live/t/32/master.m3u8?signature=f0b12c281ee951e4e78a62cf3c784cfb05e61954&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:116 tvg-id="ts34" tvg-name="SONY AATH" group-title="TataSky  Entertainment" tvg-chno="696" tvg-logo="https://assets.botallen.live/images/t/TsTuZyJVEA.png",SONY AATH
+https://botallen.live/t/34/master.m3u8?signature=0b736fa5a94a17e77ce33d7f759024860f74e864&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:117 tvg-id="ts45" tvg-name="SONY YAY!" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="698" tvg-logo="https://assets.botallen.live/images/t/nkNRBeLyPj.png",SONY YAY!
+https://botallen.live/t/45/master.m3u8?signature=ed4b634413ba283531f6c2d442a3e94181b4d051&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:118 tvg-id="ts48" tvg-name="SAB HD" group-title="TataSky  HD  Entertainment" tvg-chno="699" tvg-logo="https://assets.botallen.live/images/t/dtOmhgoMaY.png",SAB HD
+https://botallen.live/t/48/master.m3u8?signature=cd825ea1664adfed1646ec39fe6529665adecbc6&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:119 tvg-id="ts51" tvg-name="Dangal" group-title="TataSky  Entertainment" tvg-chno="701" tvg-logo="https://assets.botallen.live/images/t/mFBTOrKMIH.png",Dangal
+https://botallen.live/t/51/master.m3u8?signature=2d6cf9a61b77418a21ccd3fc1d0ca112deab998e&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:120 tvg-id="ts52" tvg-name="Colors HD" group-title="TataSky  HD  Entertainment" tvg-chno="702" tvg-logo="https://assets.botallen.live/images/t/JgLheBRhKQ.png",Colors HD
+https://botallen.live/t/52/master.m3u8?signature=51f0bb0a775ed95add6c078b8f46080647f4508c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:121 tvg-id="ts53" tvg-name="Colors Cineplex" group-title="Movies  TataSky" tvg-chno="703" tvg-logo="https://assets.botallen.live/images/t/eEsIGfbsEm.png",Colors Cineplex
+https://botallen.live/t/53/master.m3u8?signature=b87e7581f4e95dcbe0f1a548e1b91740672531c9&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:122 tvg-id="ts54" tvg-name="The Q" group-title="TataSky  Entertainment" tvg-chno="704" tvg-logo="https://assets.botallen.live/images/t/fXztuBLQPO.png",The Q
+https://botallen.live/t/54/master.m3u8?signature=4abbe20d673e201766d66c9e6d119547a991b80a&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:123 tvg-id="ts56" tvg-name="SONY WAH" group-title="Movies  TataSky" tvg-chno="705" tvg-logo="https://assets.botallen.live/images/t/OpeSFqdpsn.png",SONY WAH
+https://botallen.live/t/56/master.m3u8?signature=72b0d805c5ad9a28bab7648ded423221f31b02cf&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:124 tvg-id="ts61" tvg-name="Colors Cineplex HD" group-title="TataSky  Movies  Cartoons" tvg-chno="707" tvg-logo="https://assets.botallen.live/images/t/BmPGzjUWll.png",Colors Cineplex HD
+https://botallen.live/t/61/master.m3u8?signature=a93ca420284ec4300788d94c7f3afd88d91bae17&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:125 tvg-id="ts63" tvg-name="Zee TV HD" group-title="TataSky  HD  Entertainment" tvg-chno="708" tvg-logo="https://assets.botallen.live/images/t/wXsAehFbMb.png",Zee TV HD
+https://botallen.live/t/63/master.m3u8?signature=63eb02d97052bd3b61575a0ecd5f211e91e040f5&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:126 tvg-id="ts64" tvg-name="Zee Anmol Cinema" group-title="Movies  TataSky" tvg-chno="709" tvg-logo="https://assets.botallen.live/images/t/ENYdMQURQG.png",Zee Anmol Cinema
+https://botallen.live/t/64/master.m3u8?signature=e955727f28be2942d1a7af890badc876c4f781be&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:127 tvg-id="ts80" tvg-name="SONY MAX HD" group-title="TataSky  Movies  Cartoons" tvg-chno="715" tvg-logo="https://assets.botallen.live/images/t/pQcYawClLo.png",SONY MAX HD
+https://botallen.live/t/80/master.m3u8?signature=558f6eec4b483db4dfc3a297b9a6e2fbee1a511e&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:128 tvg-id="ts96" tvg-name="Zoom" group-title="Music  TataSky" tvg-chno="720" tvg-logo="https://assets.botallen.live/images/t/GgmrFtvfzy.png",Zoom
+https://botallen.live/t/96/master.m3u8?signature=9683ea0d04d29611c6198de5327b19e049ed3311&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:129 tvg-id="ts100" tvg-name="Zee Action" group-title="Movies  TataSky" tvg-chno="723" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png",Zee Action
+https://botallen.live/t/100/master.m3u8?signature=11686b7c56c918a190e425b5d6a9f80dddb11252&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:130 tvg-id="ts114" tvg-name="Disney" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="730" tvg-logo="https://assets.botallen.live/images/t/whcNdqxkqA.png",Disney
+https://botallen.live/t/114/master.m3u8?signature=25c496d63cf33b3bb06a16568cac21dcdc8f5d75&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:131 tvg-id="ts118" tvg-name="Nick Jr" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="732" tvg-logo="https://assets.botallen.live/images/t/KeOhAplege.png",Nick Jr
+https://botallen.live/t/118/master.m3u8?signature=a597abd77e0849332100feb7eb1c03de5a555b25&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:132 tvg-id="ts119" tvg-name="Discovery Kids" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="733" tvg-logo="https://assets.botallen.live/images/t/OOoVoRtffC.png",Discovery Kids
+https://botallen.live/t/119/master.m3u8?signature=f1c613f0ee5f9d1f79b9378049fb7427020b89bf&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:133 tvg-id="ts120" tvg-name="SONY MAX 2" group-title="Movies  TataSky" tvg-chno="734" tvg-logo="https://assets.botallen.live/images/t/yDfFXmGdit.png",SONY MAX 2
+https://botallen.live/t/120/master.m3u8?signature=1f9f1318e8b3489401fcc963f7d29da666c604c5&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:134 tvg-id="ts123" tvg-name="Zee Cinema" group-title="Movies  TataSky" tvg-chno="735" tvg-logo="https://assets.botallen.live/images/t/kweiXIUpak.png",Zee Cinema
+https://botallen.live/t/123/master.m3u8?signature=a9c48aa747a883aef1a5c9f446989156240da75a&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:135 tvg-id="ts127" tvg-name="Sonic Nickelodeon" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="737" tvg-logo="https://assets.botallen.live/images/t/sQCDeLmaBK.png",Sonic Nickelodeon
+https://botallen.live/t/127/master.m3u8?signature=15d8c28cd6121d21357325394237d8885b727a02&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:136 tvg-id="ts128" tvg-name="ETV Cinema" group-title="Movies  TataSky" tvg-chno="738" tvg-logo="https://assets.botallen.live/images/t/TVqNRujrZM.png",ETV Cinema
+https://botallen.live/t/128/master.m3u8?signature=a2e90b90a47acc8a3bea7ce8cba07c47af1f3d8e&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:137 tvg-id="ts129" tvg-name="Aakaash Aath" group-title="TataSky  Entertainment" tvg-chno="739" tvg-logo="https://assets.botallen.live/images/t/NDYHPNbNQd.png",Aakaash Aath
+https://botallen.live/t/129/master.m3u8?signature=87abcf4e8cc5051406ca948a18ee16e87617a13f&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:138 tvg-id="ts132" tvg-name="SONY  MAX" group-title="Movies  TataSky" tvg-chno="741" tvg-logo="https://assets.botallen.live/images/t/dHiamawVFo.png",SONY  MAX
+https://botallen.live/t/132/master.m3u8?signature=95b6dad878ec551c0e2b63e36815f49e711c2134&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:139 tvg-id="ts138" tvg-name="Nick" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="743" tvg-logo="https://assets.botallen.live/images/t/bwFHqlCGNT.png",Nick
+https://botallen.live/t/138/master.m3u8?signature=2161a156ab81a55648bf022ee49347d93e94cf61&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:140 tvg-id="ts139" tvg-name="9XM" group-title="Music  TataSky" tvg-chno="744" tvg-logo="https://assets.botallen.live/images/t/svqWqdGHMN.png",9XM
+https://botallen.live/t/139/master.m3u8?signature=e6d1e4baaabada13e3a51051cf38eb0efd69e242&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:141 tvg-id="ts142" tvg-name="UTV Bindass" group-title="TataSky  Entertainment" tvg-chno="746" tvg-logo="https://assets.botallen.live/images/t/QTilTJPHwc.png",UTV Bindass
+https://botallen.live/t/142/master.m3u8?signature=5c68c041f1eef7112b634b7524e05ffa69ec2958&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:142 tvg-id="ts144" tvg-name="Disney Junior" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="747" tvg-logo="https://assets.botallen.live/images/t/VwDdnSCEDw.png",Disney Junior
+https://botallen.live/t/144/master.m3u8?signature=1f4bc9dbe14a14820794bd654ea1689df972bbef&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:143 tvg-id="ts148" tvg-name="&pictures" group-title="Movies  TataSky" tvg-chno="749" tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png",&pictures
+https://botallen.live/t/148/master.m3u8?signature=6b0029b65a91935722b05518bd167b43593b2c03&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:144 tvg-id="ts175" tvg-name="Zee Bollywood" group-title="Movies  TataSky" tvg-chno="757" tvg-logo="https://assets.botallen.live/images/t/CuuKMMvMNC.png",Zee Bollywood
+https://botallen.live/t/175/master.m3u8?signature=c2e3c73f617914f27892da5ecf870e23c3f9368c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:145 tvg-id="ts182" tvg-name="Cinema TV India" group-title="Movies  TataSky" tvg-chno="761" tvg-logo="https://assets.botallen.live/images/t/NXpQDaETmw.png",Cinema TV India
+https://botallen.live/t/182/master.m3u8?signature=d63a30001b9ed09510533f40feb69747ee097507&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:146 tvg-id="ts187" tvg-name="Colors Infinity HD" group-title="TataSky  HD  Entertainment" tvg-chno="763" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png",Colors Infinity HD
+https://botallen.live/t/187/master.m3u8?signature=8e3ccfdc184a6ff47c15bf8ef67be7d4ef60eba4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:147 tvg-id="ts191" tvg-name="DD National" group-title="TataSky  Entertainment" tvg-chno="767" tvg-logo="https://assets.botallen.live/images/t/lcQnPjOGqX.png",DD National
+https://botallen.live/t/191/master.m3u8?signature=5e4b777bd298f19b38765396bb1539f066831bed&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:148 tvg-id="ts194" tvg-name="Enterr10 Movies" group-title="Movies  TataSky" tvg-chno="769" tvg-logo="https://assets.botallen.live/images/t/BYymWnmPPV.png",Enterr10 Movies
+https://botallen.live/t/194/master.m3u8?signature=a58ae1139eea2f6d7029630a8c6e78bc0eab3632&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:149 tvg-id="ts210" tvg-name="MN+ HD" group-title="Movies  HD  TataSky" tvg-chno="778" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png",MN+ HD
+https://botallen.live/t/210/master.m3u8?signature=a2911f7ccb781cdc15b1d09ea47125918daacb4f&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:150 tvg-id="ts215" tvg-name="Sangeet Bangla" group-title="Music  TataSky" tvg-chno="781" tvg-logo="https://assets.botallen.live/images/t/lHIjOZarFm.png",Sangeet Bangla
+https://botallen.live/t/215/master.m3u8?signature=61cdfef61a6e520b38cedfbb5818d1e1d49e7c07&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:151 tvg-id="ts238" tvg-name="Cartoon Network" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="789" tvg-logo="https://assets.botallen.live/images/t/qbaQnQTKeL.png",Cartoon Network
+https://botallen.live/t/238/master.m3u8?signature=4c795163a19007a6a7cf8c68bc75345e0794c492&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:152 tvg-id="ts239" tvg-name="Pogo" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="790" tvg-logo="https://assets.botallen.live/images/t/ptkXFADQVO.png",Pogo
+https://botallen.live/t/239/master.m3u8?signature=386b90a401bdd7269c015008721b957783523833&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:153 tvg-id="ts242" tvg-name="WB" group-title="Movies  TataSky" tvg-chno="791" tvg-logo="https://assets.botallen.live/images/t/UByigCTfIQ.png",WB
+https://botallen.live/t/242/master.m3u8?signature=425c792b2cc80eca4f5af683f024f5a9b78d0a34&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:154 tvg-id="ts244" tvg-name="Star Bharat HD" group-title="TataSky  HD  Entertainment" tvg-chno="793" tvg-logo="https://assets.botallen.live/images/t/dSqftIllAK.png",Star Bharat HD
+https://botallen.live/t/244/master.m3u8?signature=e1779643bd2a3eab18a796061bc761362dcc957f&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:155 tvg-id="ts254" tvg-name="Zee Bangla Cinema" group-title="Movies  TataSky" tvg-chno="796" tvg-logo="https://assets.botallen.live/images/t/pOaTrWJUfL.png",Zee Bangla Cinema
+https://botallen.live/t/254/master.m3u8?signature=c4bbe50ee430e225624ef62643c8624c83a5d5b3&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:156 tvg-id="ts267" tvg-name="&pictures HD" group-title="TataSky  Movies  Cartoons" tvg-chno="802" tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png",&pictures HD
+https://botallen.live/t/267/master.m3u8?signature=1b62b3ab438dc0afd517b88c7ab230968a31a1d3&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:157 tvg-id="ts298" tvg-name="Baby TV HD" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="813" tvg-logo="https://assets.botallen.live/images/t/nsafMKpLvj.png",Baby TV HD
+https://botallen.live/t/298/master.m3u8?signature=4983495a0bede4d7c2e297ff0230040a401ed5e6&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:158 tvg-id="ts305" tvg-name="Colors Bangla HD" group-title="TataSky  Entertainment" tvg-chno="814" tvg-logo="https://assets.botallen.live/images/t/ubKSqdMVwP.png",Colors Bangla HD
+https://botallen.live/t/305/master.m3u8?signature=a994e212322d68c7d202da3ad4900700af125f2a&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:159 tvg-id="ts347" tvg-name="HBO HD" group-title="Movies  HD  TataSky" tvg-chno="823" tvg-logo="https://assets.botallen.live/images/t/hEMIlzxWaS.png",HBO HD
+https://botallen.live/t/347/master.m3u8?signature=bfcf869b87f468b973a615bf06df97fa822db964&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:160 tvg-id="ts352" tvg-name="ETV Plus" group-title="TataSky  Entertainment" tvg-chno="825" tvg-logo="https://assets.botallen.live/images/t/nfmMncNUMF.png",ETV Plus
+https://botallen.live/t/352/master.m3u8?signature=be2583d319ca8e89150c06ecc62f459402477ed5&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:161 tvg-id="ts355" tvg-name="Gemini TV HD" group-title="TataSky  Entertainment" tvg-chno="827" tvg-logo="https://assets.botallen.live/images/t/JGqZMmnBSk.png",Gemini TV HD
+https://botallen.live/t/355/master.m3u8?signature=e2ac8f5902dd16f12e87abcbffc2a87c8d0121c4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:162 tvg-id="ts359" tvg-name="ETV HD" group-title="TataSky  Entertainment" tvg-chno="829" tvg-logo="https://assets.botallen.live/images/t/tCVjbyYpKl.png",ETV HD
+https://botallen.live/t/359/master.m3u8?signature=390073f2afaa88c8d38f2c76fa0786a3c8d9b9b7&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:163 tvg-id="ts362" tvg-name="Gemini Movies HD" group-title="Movies  TataSky" tvg-chno="830" tvg-logo="https://assets.botallen.live/images/t/CZaJijsFez.png",Gemini Movies HD
+https://botallen.live/t/362/master.m3u8?signature=5b7e25dcdb8e97ab4425c0038754a7e701552ea5&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:164 tvg-id="ts379" tvg-name="Khushboo Bangla" group-title="Movies  TataSky" tvg-chno="831" tvg-logo="https://assets.botallen.live/images/t/rrekBcIMUK.png",Khushboo Bangla
+https://botallen.live/t/379/master.m3u8?signature=012933fbf8e8c093054f7fd0b73656b05515cda1&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:165 tvg-id="ts387" tvg-name="Star Maa Movies HD" group-title="Movies  TataSky" tvg-chno="833" tvg-logo="https://assets.botallen.live/images/t/zJLDtYvFFc.png",Star Maa Movies HD
+https://botallen.live/t/387/master.m3u8?signature=854038f5de548528e34b2baef236b09d792c7966&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:166 tvg-id="ts388" tvg-name="Star Maa Gold" group-title="Movies  TataSky" tvg-chno="834" tvg-logo="https://assets.botallen.live/images/t/FOdLwsGxFo.png",Star Maa Gold
+https://botallen.live/t/388/master.m3u8?signature=9fe97ea6a4b0a642222d14bde64283d6526a25f3&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:167 tvg-id="ts437" tvg-name="Romedy Now HD" group-title="Movies  HD  TataSky" tvg-chno="837" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png",Romedy Now HD
+https://botallen.live/t/437/master.m3u8?signature=7c6733f981de0e2e85b48254f083dda9d7010ad8&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:168 tvg-id="ts468" tvg-name="Star Jalsha HD" group-title="Movies  TataSky" tvg-chno="842" tvg-logo="https://assets.botallen.live/images/t/tpezvnuqDS.png",Star Jalsha HD
+https://botallen.live/t/468/master.m3u8?signature=ba0e3cc6c74370e11c3b04c484b279b21ee38da4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:169 tvg-id="ts503" tvg-name="Zee Cinema HD" group-title="TataSky  Movies  Cartoons" tvg-chno="846" tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png",Zee Cinema HD
+https://botallen.live/t/503/master.m3u8?signature=68575784f3f1f44214db36949cae5d9df8f65d5a&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:170 tvg-id="ts516" tvg-name="STAR Maa HD" group-title="TataSky  Entertainment" tvg-chno="850" tvg-logo="https://assets.botallen.live/images/t/XCOkItPxdk.png",STAR Maa HD
+https://botallen.live/t/516/master.m3u8?signature=6330d2535c49557b0aed87dea197a1c5dc174dfd&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:171 tvg-id="ts522" tvg-name="Zee Bangla HD" group-title="TataSky  Entertainment" tvg-chno="852" tvg-logo="https://assets.botallen.live/images/t/JanUuytxgE.png",Zee Bangla HD
+https://botallen.live/t/522/master.m3u8?signature=3861b2e116a05c90af2993d066f5b0ab0a6150f4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:172 tvg-id="ts537" tvg-name="Jalsha Movies HD" group-title="Movies  TataSky" tvg-chno="854" tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png",Jalsha Movies HD
+https://botallen.live/t/537/master.m3u8?signature=43b65350ee671b3f2e94ac6cd723e2e14d37eacc&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:173 tvg-id="ts557" tvg-name="Zee TV" group-title="TataSky  Entertainment" tvg-chno="856" tvg-logo="https://assets.botallen.live/images/t/gQBvJmwEAR.png",Zee TV
+https://botallen.live/t/557/master.m3u8?signature=4c8acb5ffe5ab265b33091a5ca9126513a243c48&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:174 tvg-id="ts587" tvg-name="MARVEL HQ" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="858" tvg-logo="https://assets.botallen.live/images/t/BLdKdDwPfD.png",MARVEL HQ
+https://botallen.live/t/587/master.m3u8?signature=6bdcbbce1ecf457aeb57f199e92ca7fe0b1915ef&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:175 tvg-id="ts599" tvg-name="MNX HD" group-title="Movies  HD  TataSky" tvg-chno="861" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png",MNX HD
+https://botallen.live/t/599/master.m3u8?signature=5141b159c8f77040588fac5b902591e07e1bbb51&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:176 tvg-id="ts632" tvg-name="Star GOLD HD" group-title="TataSky  Movies  Cartoons" tvg-chno="865" tvg-logo="https://assets.botallen.live/images/t/rQiIFTwapw.png",Star GOLD HD
+https://botallen.live/t/632/master.m3u8?signature=7105b5359392bfca7e90a64b1e8af445d5949b64&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:177 tvg-id="ts633" tvg-name="Investigation Discovery" group-title="TataSky  Entertainment" tvg-chno="866" tvg-logo="https://assets.botallen.live/images/t/aWdxkBKImz.png",Investigation Discovery
+https://botallen.live/t/633/master.m3u8?signature=a9639c68dd4822226dc8ac105cd7e9cf6e505eb0&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:178 tvg-id="ts635" tvg-name="Zee Telugu HD" group-title="TataSky  Entertainment" tvg-chno="867" tvg-logo="https://assets.botallen.live/images/t/mxahkHnOuL.png",Zee Telugu HD
+https://botallen.live/t/635/master.m3u8?signature=539bccc7bee001343fb45603da93cc0692ae3749&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:179 tvg-id="ts636" tvg-name="Zee Cinemalu HD" group-title="Movies  TataSky" tvg-chno="868" tvg-logo="https://assets.botallen.live/images/t/rhvXhqicvI.png",Zee Cinemalu HD
+https://botallen.live/t/636/master.m3u8?signature=f869ddac49f9f7af8f7d7190eb357307a0dfb977&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:180 tvg-id="ts639" tvg-name="Tata Sky Show Bizz" group-title="TataSky  Movies  Entertainment" tvg-chno="870" tvg-logo="https://assets.botallen.live/images/t/rTEAYnIOHH.png",Tata Sky Show Bizz
+https://botallen.live/t/639/master.m3u8?signature=a822a732d75bbcbcbd0707b4eb9c10014f69ac1f&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:181 tvg-id="ts647" tvg-name="Isaiaruvi" group-title="TataSky  Entertainment" tvg-chno="872" tvg-logo="https://assets.botallen.live/images/t/VbKCYWNaic.png",Isaiaruvi
+https://botallen.live/t/647/master.m3u8?signature=8f75130f898ff441d84ba43b72210226e6fb7503&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:182 tvg-id="ts665" tvg-name="Tata Sky Bhojpuri Sanima" group-title="Movies  TataSky" tvg-chno="876" tvg-logo="https://assets.botallen.live/images/t/rzRzDNVuwQ.png",Tata Sky Bhojpuri Sanima
+https://botallen.live/t/665/master.m3u8?signature=f3d9d711e42b83f99eb00d35aec297ff41bc967b&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:183 tvg-id="ts681" tvg-name="Cartoon Network HD+" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="878" tvg-logo="https://assets.botallen.live/images/t/IsScNhCCed.png",Cartoon Network HD+
+https://botallen.live/t/681/master.m3u8?signature=5bc39e684dd2af87f1c765622ff416ba98719f41&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:184 tvg-id="ts708" tvg-name="Jaya TV HD" group-title="TataSky  Entertainment" tvg-chno="886" tvg-logo="https://assets.botallen.live/images/t/LiZYrlEMbQ.png",Jaya TV HD
+https://botallen.live/t/708/master.m3u8?signature=9a823269c70a0e3604cf85724610f256712904eb&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:185 tvg-id="ts727" tvg-name="Zee Classic" group-title="Movies  TataSky" tvg-chno="887" tvg-logo="https://assets.botallen.live/images/t/YFJwbRLFyy.png",Zee Classic
+https://botallen.live/t/727/master.m3u8?signature=5c9d375871c3018428f131a851449bb5db0fec32&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:186 tvg-id="ts731" tvg-name="Manoranjan TV" group-title="Movies  TataSky" tvg-chno="889" tvg-logo="https://assets.botallen.live/images/t/iYFFHtDaSx.png",Manoranjan TV
+https://botallen.live/t/731/master.m3u8?signature=348416afc340cc62bee6a6025769ec3e8248f806&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:187 tvg-id="ts733" tvg-name="Showbox" group-title="Music  TataSky" tvg-chno="890" tvg-logo="https://assets.botallen.live/images/t/ypDGUIXbnP.png",Showbox
+https://botallen.live/t/733/master.m3u8?signature=21a0b8a851bb2eb5f42df6a86c4dba7a98a3f12c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:188 tvg-id="ts40" tvg-name="&tv HD" group-title="TataSky  HD  Entertainment" tvg-chno="892" tvg-logo="https://assets.botallen.live/images/t/CukEOZYJfm.png",&tv HD
+https://botallen.live/t/40/master.m3u8?signature=9851e8f2b9847ece38c3f6994025b0b448558aa0&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:189 tvg-id="ts39" tvg-name="9X Jalwa" group-title="Music  TataSky" tvg-chno="893" tvg-logo="https://assets.botallen.live/images/t/ogXVXSpTHT.png",9X Jalwa
+https://botallen.live/t/39/master.m3u8?signature=ad97e0a643e90382c0ee73d32932729d429eea66&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:190 tvg-id="ts780" tvg-name="Housefull Movies" group-title="Movies  TataSky" tvg-chno="897" tvg-logo="https://assets.botallen.live/images/t/qCkjqpEEUx.png",Housefull Movies
+https://botallen.live/t/780/master.m3u8?signature=4db3a85a9ddf4061cceb8f53db14d79f195eeace&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:191 tvg-id="ts797" tvg-name="Zee Thirai" group-title="TataSky  Entertainment" tvg-chno="901" tvg-logo="https://assets.botallen.live/images/t/fkvGbgydOk.png",Zee Thirai
+https://botallen.live/t/797/master.m3u8?signature=4eb50bfa1bdb491360403d778e84c531de498239&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:192 tvg-id="ts816" tvg-name="CBeeBies" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="906" tvg-logo="https://assets.botallen.live/images/t/vWmcygdqnR.png",CBeeBies
+https://botallen.live/t/816/master.m3u8?signature=6c56999d373cefd9f854ed54a0f06f0db178ca0e&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:193 tvg-id="ts817" tvg-name="DD Retro" group-title="TataSky  Entertainment" tvg-chno="907" tvg-logo="https://assets.botallen.live/images/t/rRCzoCkYcp.png",DD Retro
+https://botallen.live/t/817/master.m3u8?signature=81a442c1f13e5125934ac845f086a815c442c08b&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:194 tvg-id="ts818" tvg-name="Shemaroo TV" group-title="TataSky  Entertainment" tvg-chno="908" tvg-logo="https://assets.botallen.live/images/t/VvxzRXnuZH.png",Shemaroo TV
+https://botallen.live/t/818/master.m3u8?signature=1dc49ce961af5b5806031826d81e746a56f0b7d4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:195 tvg-id="ts823" tvg-name="Dhinchaak" group-title="Movies  TataSky" tvg-chno="909" tvg-logo="https://assets.botallen.live/images/t/ZimNGRWSUB.png",Dhinchaak
+https://botallen.live/t/823/master.m3u8?signature=42986fee142f52bc95d8c20707f7542df28ede27&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:196 tvg-id="ts10" tvg-name="Flowers" group-title="TataSky  Entertainment" tvg-chno="918" tvg-logo="https://assets.botallen.live/images/t/hlWvpFyiEx.png",Flowers
+https://botallen.live/t/10/master.m3u8?signature=85149e8e34da595a796701e76286344e6a8ae803&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:197 tvg-id="ts25" tvg-name="Kairali TV" group-title="TataSky  Entertainment" tvg-chno="920" tvg-logo="https://assets.botallen.live/images/t/GhUEUYwcgu.png",Kairali TV
+https://botallen.live/t/25/master.m3u8?signature=f500317c64e830af9baade1dfcf916c157555ef4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:198 tvg-id="ts99" tvg-name="D Tamil" group-title="TataSky  Entertainment" tvg-chno="935" tvg-logo="https://assets.botallen.live/images/t/kygIHzBclw.png",D Tamil
+https://botallen.live/t/99/master.m3u8?signature=c37e63e60590be06106935f809e28ee79b148ea1&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:199 tvg-id="ts107" tvg-name="Colors Gujarati" group-title="TataSky  Entertainment" tvg-chno="937" tvg-logo="https://assets.botallen.live/images/t/uYzlqyOYVW.png",Colors Gujarati
+https://botallen.live/t/107/master.m3u8?signature=afc7c953a9df482ff00204ebc927f2943eef91ec&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:200 tvg-id="ts178" tvg-name="Amrita TV" group-title="TataSky  Entertainment" tvg-chno="941" tvg-logo="https://assets.botallen.live/images/t/pzcjGALbwE.png",Amrita TV
+https://botallen.live/t/178/master.m3u8?signature=01a3308a181c5e9c6252fc740fffc36839f5c09d&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:201 tvg-id="ts196" tvg-name="Kasthuri" group-title="TataSky  Entertainment" tvg-chno="943" tvg-logo="https://assets.botallen.live/images/t/uQcKfcunYx.png",Kasthuri
+https://botallen.live/t/196/master.m3u8?signature=ae575c00df1332ee96b6993604c422a9e0996ede&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:202 tvg-id="ts199" tvg-name="Jaya Max" group-title="TataSky  Entertainment" tvg-chno="945" tvg-logo="https://assets.botallen.live/images/t/vAyKfxJcEt.png",Jaya Max
+https://botallen.live/t/199/master.m3u8?signature=0efd0194f78cd3e3ab4bad0a540f77cef7d7316a&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:203 tvg-id="ts201" tvg-name="J Movies" group-title="Movies  TataSky" tvg-chno="946" tvg-logo="https://assets.botallen.live/images/t/SZMqRwhsKx.png",J Movies
+https://botallen.live/t/201/master.m3u8?signature=80d74d367e5ef062688b5817d60f2ac9a0af7816&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:204 tvg-id="ts224" tvg-name="E24" group-title="Music  TataSky" tvg-chno="951" tvg-logo="https://assets.botallen.live/images/t/fdgFbKURIB.png",E24
+https://botallen.live/t/224/master.m3u8?signature=e8b4ba92acfd69f4ecffba202d181be7f0ca6973&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:205 tvg-id="ts229" tvg-name="Surya Movies" group-title="Movies  TataSky" tvg-chno="953" tvg-logo="https://assets.botallen.live/images/t/dpEASvFhUn.png",Surya Movies
+https://botallen.live/t/229/master.m3u8?signature=5f7351e201abdfbae53f3735249a3622ac500cc4&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:206 tvg-id="ts230" tvg-name="Surya TV" group-title="TataSky  Entertainment" tvg-chno="954" tvg-logo="https://assets.botallen.live/images/t/kvCmkpJZQW.png",Surya TV
+https://botallen.live/t/230/master.m3u8?signature=5c17b2fc7ea41cf205529bbe953192fd2e28a9bd&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:207 tvg-id="ts231" tvg-name="Udaya Movies" group-title="Movies  TataSky" tvg-chno="955" tvg-logo="https://assets.botallen.live/images/t/uDGyFajqjs.png",Udaya Movies
+https://botallen.live/t/231/master.m3u8?signature=c8dd0f48e00dcde810919737315827ff44ca18bf&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:208 tvg-id="ts256" tvg-name="Zee Kannada" group-title="TataSky  Entertainment" tvg-chno="958" tvg-logo="https://assets.botallen.live/images/t/pphEFrIpNv.png",Zee Kannada
+https://botallen.live/t/256/master.m3u8?signature=6575d829ad07787325a84f4807ecb92d4e64ccaf&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:209 tvg-id="ts292" tvg-name="Asianet HD" group-title="TataSky  Entertainment" tvg-chno="960" tvg-logo="https://assets.botallen.live/images/t/rPNBLXeOjT.png",Asianet HD
+https://botallen.live/t/292/master.m3u8?signature=f729278e29c065e1cb19ee5f722e0f4d502ad879&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:210 tvg-id="ts293" tvg-name="Asianet Movies" group-title="Movies  TataSky" tvg-chno="961" tvg-logo="https://assets.botallen.live/images/t/TpRBzTmKyy.png",Asianet Movies
+https://botallen.live/t/293/master.m3u8?signature=a7c47660a233a70aa8ea50f6f235f9fdb15f6d0c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:211 tvg-id="ts294" tvg-name="Asianet Plus" group-title="TataSky  Entertainment" tvg-chno="962" tvg-logo="https://assets.botallen.live/images/t/lqRSENYJfE.png",Asianet Plus
+https://botallen.live/t/294/master.m3u8?signature=87d4c010c8f12158156b195b7968436309729fae&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:212 tvg-id="ts296" tvg-name="Bflix Movies" group-title="Movies  TataSky" tvg-chno="963" tvg-logo="https://assets.botallen.live/images/t/nyMjrmBnTv.png",Bflix Movies
+https://botallen.live/t/296/master.m3u8?signature=06b524aa2a24870565695260855c7cfbaa8d0c75&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:213 tvg-id="ts297" tvg-name="Big Magic" group-title="TataSky  Entertainment" tvg-chno="964" tvg-logo="https://assets.botallen.live/images/t/Njkuahoeuz.png",Big Magic
+https://botallen.live/t/297/master.m3u8?signature=c6d62d41a97a3ecc243f209db8132566a7e449d6&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:214 tvg-id="ts377" tvg-name="Kappa TV" group-title="Music  TataSky" tvg-chno="989" tvg-logo="https://assets.botallen.live/images/t/TmtyKvPJcy.png",Kappa TV
+https://botallen.live/t/377/master.m3u8?signature=84439b524fabb7f87165b016149dea71b4ab4c73&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:215 tvg-id="ts380" tvg-name="KTV HD" group-title="Movies  TataSky" tvg-chno="990" tvg-logo="https://assets.botallen.live/images/t/iuIOuFUfZu.png",KTV HD
+https://botallen.live/t/380/master.m3u8?signature=48fc9a72ecce9846ec586b3de85286c37e89e58c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:216 tvg-id="ts391" tvg-name="MalaiMurasu Seithigal" group-title="TataSky  Entertainment" tvg-chno="991" tvg-logo="https://assets.botallen.live/images/t/BYBjgJufnm.png",MalaiMurasu Seithigal
+https://botallen.live/t/391/master.m3u8?signature=99e3a532ad263381ef4500f42187bb90f3830330&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:217 tvg-id="ts392" tvg-name="Makkal TV" group-title="TataSky  Entertainment" tvg-chno="992" tvg-logo="https://assets.botallen.live/images/t/bwNCBVqCav.png",Makkal TV
+https://botallen.live/t/392/master.m3u8?signature=b8d97b57847454855d032f6f201b91b4b9530413&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:218 tvg-id="ts395" tvg-name="Mazhavil Manorama HD" group-title="TataSky  Entertainment" tvg-chno="994" tvg-logo="https://assets.botallen.live/images/t/WYYWyNWeUy.png",Mazhavil Manorama HD
+https://botallen.live/t/395/master.m3u8?signature=7a5db84a950dd6187dd844da8784cf50dfdce233&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:219 tvg-id="ts399" tvg-name="MH One" group-title="Music  TataSky" tvg-chno="996" tvg-logo="https://assets.botallen.live/images/t/RzoCRlrGgz.png",MH One
+https://botallen.live/t/399/master.m3u8?signature=a92a2671c7596f9f18435ca00410a3bb0428782d&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:220 tvg-id="ts405" tvg-name="MTV Beats HD" group-title="Music  TataSky" tvg-chno="998" tvg-logo="https://assets.botallen.live/images/t/LvKzjNnWiv.png",MTV Beats HD
+https://botallen.live/t/405/master.m3u8?signature=f30b977bdb7e838aeaf82f47f6104cf12697af62&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:221 tvg-id="ts406" tvg-name="MTV HD+" group-title="Music  TataSky" tvg-chno="999" tvg-logo="https://assets.botallen.live/images/t/rqBZsmCajP.png",MTV HD+
+https://botallen.live/t/406/master.m3u8?signature=24ac3cfdae3de8de5e0b073623e94fdc1c6becaf&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:222 tvg-id="ts421" tvg-name="Peppers TV" group-title="TataSky  Entertainment" tvg-chno="1006" tvg-logo="https://assets.botallen.live/images/t/qtNnoywpQx.png",Peppers TV
+https://botallen.live/t/421/master.m3u8?signature=1bcbde98c91fbe4c620fee7b3a3dc2e5b4403626&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:223 tvg-id="ts424" tvg-name="Public Music" group-title="Music  TataSky" tvg-chno="1008" tvg-logo="https://assets.botallen.live/images/t/UxXFBJiYMa.png",Public Music
+https://botallen.live/t/424/master.m3u8?signature=ced945136fd3860697e65cf0aba92eca1a6ac726&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:224 tvg-id="ts426" tvg-name="Raj Digital Plus" group-title="TataSky  Entertainment" tvg-chno="1009" tvg-logo="https://assets.botallen.live/images/t/DKfrgfgKJZ.png",Raj Digital Plus
+https://botallen.live/t/426/master.m3u8?signature=cda7bfeff671ab4c3f2eea648e81308c1a24c0fe&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:225 tvg-id="ts427" tvg-name="Raj Musix Kannada" group-title="Music  TataSky" tvg-chno="1010" tvg-logo="https://assets.botallen.live/images/t/RqNqTVfDAG.png",Raj Musix Kannada
+https://botallen.live/t/427/master.m3u8?signature=1dd0cc000b6d98fdcc7e2adaab912c6f0459fd21&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:226 tvg-id="ts429" tvg-name="Raj Musix Telugu" group-title="Music  TataSky" tvg-chno="1012" tvg-logo="https://assets.botallen.live/images/t/ardESIXoDX.png",Raj Musix Telugu
+https://botallen.live/t/429/master.m3u8?signature=8a382bc53b2dcb8dc4150e1a7938a498db68700c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:227 tvg-id="ts433" tvg-name="Nick HD+" group-title="Kids  Animation  TataSky  Cartoons" tvg-chno="1013" tvg-logo="https://assets.botallen.live/images/t/OUGLcXkjBP.png",Nick HD+
+https://botallen.live/t/433/master.m3u8?signature=2de89f17fe44dbaaca2a09216300b89e4197f811&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:228 tvg-id="ts439" tvg-name="Raj TV" group-title="TataSky  Entertainment" tvg-chno="1014" tvg-logo="https://assets.botallen.live/images/t/bDRFIbhzHD.png",Raj TV
+https://botallen.live/t/439/master.m3u8?signature=150b7e299371ae8d79b7b9f1576f18b3d9562a44&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:229 tvg-id="ts467" tvg-name="Star Suvarna HD" group-title="TataSky  Entertainment" tvg-chno="1021" tvg-logo="https://assets.botallen.live/images/t/YCqERLuyjD.png",Star Suvarna HD
+https://botallen.live/t/467/master.m3u8?signature=bd582ab84c0a578ee5dba4dc3c06042e2e67398f&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:230 tvg-id="ts492" tvg-name="Udaya TV HD" group-title="TataSky  Entertainment" tvg-chno="1028" tvg-logo="https://assets.botallen.live/images/t/MBsaoAsMiK.png",Udaya TV HD
+https://botallen.live/t/492/master.m3u8?signature=f79503474ce445e23c5fd2b385752ca45af6d5bd&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:231 tvg-id="ts517" tvg-name="Zing" group-title="Music  TataSky" tvg-chno="1035" tvg-logo="https://assets.botallen.live/images/t/JcvjxjvHMF.png",Zing
+https://botallen.live/t/517/master.m3u8?signature=3fe51ea342420f0fe6ed56704281420ce06c2884&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:232 tvg-id="ts533" tvg-name="Colors SUPER" group-title="TataSky  Entertainment" tvg-chno="1037" tvg-logo="https://assets.botallen.live/images/t/EMFjXaLgld.png",Colors SUPER
+https://botallen.live/t/533/master.m3u8?signature=2b275e9d4d8160d84063dc2d24931b75122d703c&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:233 tvg-id="ts540" tvg-name="Star Suvarna Plus" group-title="Movies  TataSky" tvg-chno="1038" tvg-logo="https://assets.botallen.live/images/t/ztfJNjxhyO.png",Star Suvarna Plus
+https://botallen.live/t/540/master.m3u8?signature=48db85fa07433872d0988ef4693ecdedd76ebb93&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:234 tvg-id="ts541" tvg-name="Raj Musix Malayalam" group-title="Music  TataSky" tvg-chno="1039" tvg-logo="https://assets.botallen.live/images/t/FHaKtQewla.png",Raj Musix Malayalam
+https://botallen.live/t/541/master.m3u8?signature=ba5b492bdc372cb284363aea272594fc3f995720&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:235 tvg-id="ts553" tvg-name="We TV" group-title="TataSky  Entertainment" tvg-chno="1043" tvg-logo="https://assets.botallen.live/images/t/LhcydcVHoN.png",We TV
+https://botallen.live/t/553/master.m3u8?signature=c88e8f329b8fad61bc09521e59f6cc176b35ff5b&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:236 tvg-id="ts562" tvg-name="Movies Now HD" group-title="Movies  HD  TataSky" tvg-chno="1044" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png",Movies Now HD
+https://botallen.live/t/562/master.m3u8?signature=2e332bf8e55916514632ce989178a9e00f3d3fb7&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:237 tvg-id="ts567" tvg-name="Nepal 1" group-title="TataSky  Entertainment" tvg-chno="1045" tvg-logo="https://assets.botallen.live/images/t/JQxnxWTPIq.png",Nepal 1
+https://botallen.live/t/567/master.m3u8?signature=124b98ab14690956b45cca6b401f8fbe3e92d9bc&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:238 tvg-id="ts611" tvg-name="Sirippoli" group-title="TataSky  Entertainment" tvg-chno="1052" tvg-logo="https://assets.botallen.live/images/t/FAMjNEcYWC.png",Sirippoli
+https://botallen.live/t/611/master.m3u8?signature=36672c99f43c65dd5b759ec15e2c69da1ff79be5&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:239 tvg-id="ts612" tvg-name="Colors Kannada HD" group-title="TataSky  Entertainment" tvg-chno="1053" tvg-logo="https://assets.botallen.live/images/t/pFRJRZodwK.png",Colors Kannada HD
+https://botallen.live/t/612/master.m3u8?signature=4d72bc82d50d0083dbf0eb0482aeb7d90a9355f9&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:240 tvg-id="ts628" tvg-name="Insync" group-title="Music  TataSky" tvg-chno="1055" tvg-logo="https://assets.botallen.live/images/t/sRWQsLhmok.png",Insync
+https://botallen.live/t/628/master.m3u8?signature=30422e9ef2420ba5dee5ace63ff6c84c9c141020&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:241 tvg-id="ts667" tvg-name="Colors Kannada Cinema" group-title="Movies  TataSky" tvg-chno="1059" tvg-logo="https://assets.botallen.live/images/t/rTqvpGZBrv.png",Colors Kannada Cinema
+https://botallen.live/t/667/master.m3u8?signature=0c3f149305cd66a33de58798272116309b49a05e&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:242 tvg-id="ts670" tvg-name="Surya Cinema" group-title="Movies  TataSky" tvg-chno="1060" tvg-logo="https://assets.botallen.live/images/t/nAqMgNIenk.png",Surya Cinema
+https://botallen.live/t/670/master.m3u8?signature=2338fc494661b4405610c6a86bfeec87af5d33c6&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:243 tvg-id="ts684" tvg-name="Zee Keralam" group-title="TataSky  Entertainment" tvg-chno="1061" tvg-logo="https://assets.botallen.live/images/t/vNAQCiPwAl.png",Zee Keralam
+https://botallen.live/t/684/master.m3u8?signature=a6b5b53edd9be228ca1269879054883eb7ea2491&unique=0294bb66eb4ace66b5b556bbaf33573a
+
+#EXTINF:244 tvg-id="ts692" tvg-name="Colors Gujarati Cinema" group-title="Movies  TataSky" tvg-chno="1062" tvg-logo="https://assets.botallen.live/images/t/cbODzCwevs.png",Colors Gujarati Cinema
+https://botallen.live/t/692/master.m3u8?signature=8fb18774171f83e69318c929b2f6700156d46757&unique=0294bb66eb4ace66b5b556bbaf33573a
 
