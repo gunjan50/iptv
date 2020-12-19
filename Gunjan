@@ -9,7 +9,7 @@ http://103.103.43.125:9000/play/a0he/index.m3u8
 http://103.103.43.125:9000/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Entertainment" tvg-logo="N/A",&tv HD - Rs 19
 http://103.103.43.125:9000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Movie" tvg-logo="N/A",ANIMAL PLAN-Rs3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Infotainment" tvg-logo="N/A",ANIMAL PLAN-Rs3
 http://103.103.43.125:9000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Movie" tvg-logo="N/A",B4U MOVIES-Free
 http://103.103.43.125:9000/play/a0gw/index.m3u8
@@ -25,8 +25,6 @@ http://103.103.43.125:9000/play/a0hw/index.m3u8
 http://103.103.43.125:9000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Movie" tvg-logo="N/A",MAX HD -Rs 17
 http://103.103.43.125:9000/play/a0gq/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Movie" tvg-logo="N/A",MEGA TV - Rs 3
-http://103.103.43.125:9000/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Movie" tvg-logo="N/A",MN+ HD-Rs 10
 http://103.103.43.125:9000/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Movie" tvg-logo="N/A",Movies Active HD- Rs 64
