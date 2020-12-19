@@ -107,40 +107,4 @@ http://103.103.43.125:9000/play/a0gk/index.m3u8
 http://103.103.43.125:9000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Entertainment" tvg-logo="N/A",ZEE TV HD-Rs 19
 http://103.103.43.125:9000/play/a0g5/index.m3u8
-#EXTINF:1 tvg-id="1430" tvg-name="Jio KIDS" group-title="Kids" tvg-chno="73" tvg-logo="https://assets.botallen.live/images/j/SewJoaeUcv.png",Jio KIDS
-https://botallen.live/j/Jio_KIDS/master.m3u8?signature=d921d5cd32a93d658c9d4fa9691a3820b04b15e5&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:2 tvg-id="815" tvg-name="Sonic Hindi" group-title="Kids" tvg-chno="139" tvg-logo="https://assets.botallen.live/images/j/FnJpgPxXzw.png",Sonic Hindi
-https://botallen.live/j/sonic_Hindi/master.m3u8?signature=e1319dd7e2269c0a1b9f93c283b7264caca93390&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:3 tvg-id="554" tvg-name="Discovery Kids 2" group-title="Kids" tvg-chno="144" tvg-logo="https://assets.botallen.live/images/j/fKMnzXvUKZ.png",Discovery Kids 2
-https://botallen.live/j/Discovery_Kids_2/master.m3u8?signature=48cafed46d3b81b4d241419e3dd4a04c28157cd9&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:4 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids" tvg-chno="162" tvg-logo="https://assets.botallen.live/images/j/yXbhLadCcC.png",Nick Hindi
-https://botallen.live/j/Nick_Hindi/master.m3u8?signature=47ae6f0308b6ec8c7ef8286e346d38a0529defa3&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:5 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Kids" tvg-chno="165" tvg-logo="https://assets.botallen.live/images/j/WRCMGeeSkQ.png",Cartoon Network Hindi
-https://botallen.live/j/Cartoon_Network_Hindi/master.m3u8?signature=830e1bf12fa7e359676d09b71e1e88e177f357e4&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:6 tvg-id="559" tvg-name="Pogo Hindi" group-title="Kids" tvg-chno="166" tvg-logo="https://assets.botallen.live/images/j/rTXzJGLpKN.png",Pogo Hindi
-https://botallen.live/j/Pogo_Hindi/master.m3u8?signature=8449fffe900742bd035820a27689e91c22f594fa&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:7 tvg-id="872" tvg-name="Sony Yay Hindi" group-title="Kids" tvg-chno="176" tvg-logo="https://assets.botallen.live/images/j/pRXOahTKqV.png",Sony Yay Hindi
-https://botallen.live/j/Sony_Yay_Hindi/master.m3u8?signature=51bda3a3fdb72dcc9d9fc85fb4520fd35f3937e0&unique=1f2453e59fa4a59071e08433c22a7274|User-Agent=KAIOS
-#EXTINF:8 tvg-id="ts45" tvg-name="SONY YAY!" group-title="Kids" tvg-chno="698" tvg-logo="https://assets.botallen.live/images/t/nkNRBeLyPj.png",SONY YAY!
-https://botallen.live/t/45/master.m3u8?signature=5ee40c0d3b64f9ad4e8bea1d801415b4296e2f9e&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:9 tvg-id="ts114" tvg-name="Disney" group-title="Kids" tvg-chno="730" tvg-logo="https://assets.botallen.live/images/t/whcNdqxkqA.png",Disney
-https://botallen.live/t/114/master.m3u8?signature=b798f49d621c35f452bd71cbeb66fbcdeb707361&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:10 tvg-id="ts118" tvg-name="Nick Jr" group-title="Kids" tvg-chno="732" tvg-logo="https://assets.botallen.live/images/t/KeOhAplege.png",Nick Jr
-https://botallen.live/t/118/master.m3u8?signature=c4055e417f4852b2fada5e5229ca0e88fc814a62&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:11 tvg-id="ts119" tvg-name="Discovery Kids" group-title="Kids" tvg-chno="733" tvg-logo="https://assets.botallen.live/images/t/OOoVoRtffC.png",Discovery Kids
-https://botallen.live/t/119/master.m3u8?signature=8beba8fd86ea9a4ac7852925af73eb452e6c10e7&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:12 tvg-id="ts127" tvg-name="Sonic Nickelodeon" group-title="Kids" tvg-chno="737" tvg-logo="https://assets.botallen.live/images/t/sQCDeLmaBK.png",Sonic Nickelodeon
-https://botallen.live/t/127/master.m3u8?signature=0b21e7de9c13534a9776598a64c478b3fde9ae82&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:13 tvg-id="ts138" tvg-name="Nick" group-title="Kids" tvg-chno="743" tvg-logo="https://assets.botallen.live/images/t/bwFHqlCGNT.png",Nick
-https://botallen.live/t/138/master.m3u8?signature=2aea324e6e38106bef9de933fc02a066a008856f&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:14 tvg-id="ts144" tvg-name="Disney Junior" group-title="Kids" tvg-chno="747" tvg-logo="https://assets.botallen.live/images/t/VwDdnSCEDw.png",Disney Junior
-https://botallen.live/t/144/master.m3u8?signature=ce26cea0025d31eae3eb36cc175a48f7f0f4a35c&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:15 tvg-id="ts238" tvg-name="Cartoon Network" group-title="Kids" tvg-chno="789" tvg-logo="https://assets.botallen.live/images/t/qbaQnQTKeL.png",Cartoon Network
-https://botallen.live/t/238/master.m3u8?signature=e7469c603b95311d1fe584d751869240b3621f7c&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:16 tvg-id="ts239" tvg-name="Pogo" group-title="Kids" tvg-chno="790" tvg-logo="https://assets.botallen.live/images/t/ptkXFADQVO.png",Pogo
-https://botallen.live/t/239/master.m3u8?signature=b4a80609d982147dbd5938b4c4da6da4b3b89580&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:17 tvg-id="ts298" tvg-name="Baby TV HD" group-title="Kids" tvg-chno="813" tvg-logo="https://assets.botallen.live/images/t/nsafMKpLvj.png",Baby TV HD
-https://botallen.live/t/298/master.m3u8?signature=42edfd3c8dbbefdfc70119069298d9c9c51a3dff&unique=1f2453e59fa4a59071e08433c22a7274
-#EXTINF:18 tvg-id="ts587" tvg-name="MARVEL HQ" group-title="Kids" tvg-chno="858" tvg-logo="https://assets.botallen.live/images/t/BLdKdDwPfD.png",MARVEL HQ
-https://botallen.live/t/587/master.m3u8?signature=6d4699cec487dffab38c3b470aa7f7acdd394d4e&unique=1f2453e59fa4a59071e08433c22a7274
 
