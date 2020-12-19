@@ -107,33 +107,4 @@ http://103.103.43.125:9000/play/a0gk/index.m3u8
 http://103.103.43.125:9000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Entertainment" tvg-logo="N/A",ZEE TV HD-Rs 19
 http://103.103.43.125:9000/play/a0g5/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms",Star Gold 2
-https://tivimateplaylists.live/stargold2n
-#EXTINF:-1 group-title="Movie" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex HD
-https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
-#EXTINF:-1 group-title="Movie" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX 2
-https://tivimateplaylists.live/sonymax2n
-#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
-https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
-#EXTINF:-1 group-title="Movie" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png",Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#EXTINF:-1 group-title="Movie" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg",Filmy
-http://bit.ly/tivimateplaylistsfilmy
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png",Sony Wah
-https://tivimateplaylists.live/sonywahn
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.androidfreeware.net/img2/com-starutsa-va.jpg",Star Utsav
-https://tivimateplaylists.live/starutsav
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
-https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal
-https://tivimateplaylists.live/sony-palN
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-https://tivimateplaylists.live/zeeanmoln
-#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
-#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
-https://tivimateplaylists.live/discvry-kids
+
