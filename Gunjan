@@ -125,5 +125,6 @@ http://182.176.93.225:8000/play/a01p
 http://182.176.93.225:8000/play/a01o
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Sony yay-Rs 19
 https://bit.ly/2WmsoNYYaY
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Nick-Rs 19
+
+#EXTINF:28 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids" tvg-chno="162" tvg-logo="https://assets.botallen.live/images/j/yXbhLadCcC.png",Nick Hindi
 https://botallen.live/j/Nick_Hindi/master.m3u8?signature=2e0e07d4a99acc4d76bfa10b005996ab0df94e72&unique=d5baeaf2d19957e166a7b1cd33b31bfe|User-Agent=KAIOS
