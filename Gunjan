@@ -107,27 +107,3 @@ http://103.103.43.125:9000/play/a0gk/index.m3u8
 http://103.103.43.125:9000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Entertainment" tvg-logo="N/A",ZEE TV HD-Rs 19
 http://103.103.43.125:9000/play/a0g5/index.m3u8
-#EXTINF:-1 group-title="News @tivimateplaylists" tvg-logo="https://firstindianews.com/images/logo.png",First India News Rajasthan
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
-https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:-1 group-title="Entertainment @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
-https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png",Nick HD+
-https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
-#EXTINF:-1 group-title="Kids @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex HD
-https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
-#EXTINF:-1 group-title="Movies @tivimateplaylists" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg",Filmy
-http://bit.ly/tivimateplaylistsfilmy
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
-#EXTINF:-1 group-title="Music @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
-https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
