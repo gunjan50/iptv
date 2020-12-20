@@ -125,5 +125,11 @@ http://182.176.93.225:8000/play/a01p
 http://182.176.93.225:8000/play/a01o
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Sony yay-Rs 19
 https://bit.ly/2WmsoNYYaY
+#EXTINF:152 tvg-id="MWTV_LIVETVCHANNEL_10000000001010000" tvg-name="Nick" group-title="Hindi  Kids  Airtel" tvg-chno="1004" tvg-logo="https://assets.wxca.cf/images/a/kgqwbXQCQP.png",Nick
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wxca.cf/a/wv/MWTV_LIVETVCHANNEL_10000000001010000?signature=c9c696952653b68c95deb1a4c6d47365408c5609&unique=6f194f82bfafa03b829962486c163e8d
+https://load.airtelxstream.in/nick/smil:common.smil/manifest.mpd
 
 
