@@ -149,5 +149,135 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
 #EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Nick H-Rs6
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",&flix HD-Rs19
+http://182.176.93.225:8000/play/a00d
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",&pictures-Rs 6
+http://182.176.93.225:8000/play/a02h
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",&tv - Rs 12
+http://182.176.93.225:8000/play/a04e
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",ANIMAL PLAN-Rs3
+http://182.176.93.225:8000/play/a04i
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",BBC WORLD - Rs 1
+http://182.176.93.225:8000/play/a048
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",CARTOON-Rs4.25
+http://182.176.93.225:8000/play/a01k
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",CNN INTL - 50p
+http://182.176.93.225:8000/play/a047
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Colors HD-Rs 19
+http://182.176.93.225:8000/play/a00c
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",colors Infi-Rs5
+http://182.176.93.225:8000/play/a02q
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",COMEDY CEN-Rs 5
+http://182.176.93.225:8000/play/a049
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Discovery H-Rs6
+http://182.176.93.225:8000/play/a010
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",DISCOVERY K-Rs3
+http://182.176.93.225:8000/play/a01r
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Discovery S-Rs1
+http://182.176.93.225:8000/play/a02c
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Discovery T-Rs1
+http://182.176.93.225:8000/play/a02d
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Disney Chan-Rs8
+http://182.176.93.225:8000/play/a01m
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Disney Jr.-Rs 4
+http://182.176.93.225:8000/play/a01n
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",EUROSPORT - Rs 4
+http://182.176.93.225:8000/play/a01f
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",FOX Life HD-Rs1
+http://182.176.93.225:8000/play/a00f
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",HBO - Rs 10
+http://182.176.93.225:8000/play/a01v
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",History TV -Rs3
+http://182.176.93.225:8000/play/a02a
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",hungama tv-Rs 6
+http://182.176.93.225:8000/play/a01l
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",MAX HD -Rs 17
+http://182.176.93.225:8000/play/a01a
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",MN+ HD-Rs 10
+http://182.176.93.225:8000/play/a00w
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",MNX - Rs 6
+http://182.176.93.225:8000/play/a04a
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",MOVIES NO-Rs 10
+http://182.176.93.225:8000/play/a01x
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",MTV - Rs 3
+http://182.176.93.225:8000/play/a04b
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",NAT Geo Wild HD-Rs 5
+http://182.176.93.225:8000/play/a01b
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",National G-Rs10
+http://182.176.93.225:8000/play/a00z
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",nick - Rs 6
 http://182.176.93.225:8000/play/a027
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",nick HD+- Rs 10
+http://182.176.93.225:8000/play/a041
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Nick Jr. - Rs1
+http://182.176.93.225:8000/play/a01q
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",PIX HD - Rs 15
+http://182.176.93.225:8000/play/a040
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Pogo - Rs 4.25
+http://182.176.93.225:8000/play/a01p
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Romedy NOW-Rs 6
+http://182.176.93.225:8000/play/a01y
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SET HD - Rs 19
+http://182.176.93.225:8000/play/a00e
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SIX HD - Rs 19
+http://182.176.93.225:8000/play/a017
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SONIC- Rs 2
+http://182.176.93.225:8000/play/a01o
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SONY BBC Ea-Rs4
+http://182.176.93.225:8000/play/a02j
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SONY MAX 2 - Rs 1
+http://182.176.93.225:8000/play/a02r
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SONY PAL -Rs 1
+http://182.176.93.225:8000/play/a04d
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",SONY SAB - Rs 19
+http://182.176.93.225:8000/play/a04c
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Sony Ten 1 HD- Rs 19
+http://182.176.93.225:8000/play/a016
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Sony Ten 2 HD- Rs 17
+http://182.176.93.225:8000/play/a04f
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Sony Ten 3 HD- Rs 17
+http://182.176.93.225:8000/play/a046
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",STAR BHARA-Rs19
+http://182.176.93.225:8000/play/a03y
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Gold 2- Rs 1
+http://182.176.93.225:8000/play/a02p
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star GOLD- Rs 8
+http://182.176.93.225:8000/play/a02m
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Gold SelHD-Rs10
+http://182.176.93.225:8000/play/a03z
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Movi-Rs 10
+http://182.176.93.225:8000/play/a00y
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",STAR MOVI-Rs 19
+http://182.176.93.225:8000/play/a00x
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Plus -Rs19
+http://182.176.93.225:8000/play/a00a
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Sport- Rs19
+http://182.176.93.225:8000/play/a015
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Sport- Rs19
+http://182.176.93.225:8000/play/a018
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Sport-Rs10
+http://182.176.93.225:8000/play/a04h
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Sport-Rs19
+http://182.176.93.225:8000/play/a04g
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Sport-Rs19
+http://182.176.93.225:8000/play/a014
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",Star Sports 3 Rs 4
+http://182.176.93.225:8000/play/a01i
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",STAR WORLD P-Rs9
+http://182.176.93.225:8000/play/a042
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",STAR WORLD -Rs9
+http://182.176.93.225:8000/play/a013
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",TLC HD- Rs3
+http://182.176.93.225:8000/play/a00u
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",UTV ACTION-Rs 2
+http://182.176.93.225:8000/play/a02o
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",UTV MOVIES-Rs 2
+http://182.176.93.225:8000/play/a02n
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",WB - Rs 1
+http://182.176.93.225:8000/play/a01w
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",ZEE CINEMA-Rs15
+http://182.176.93.225:8000/play/a02l
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="50FPSchannels" tvg-logo="N/A",ZEE TV HD-Rs 19
+http://182.176.93.225:8000/play/a00b
+
+
