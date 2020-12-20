@@ -123,8 +123,5 @@ http://182.176.93.225:8000/play/a01q
 http://182.176.93.225:8000/play/a01p
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Sonic nicklodeon-Rs 19
 http://182.176.93.225:8000/play/a01o
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Nick-Rs 19
-https://botallen.live/j/Nick_Hindi/master.m3u8?signature=5b2030963082ec61657bee9eabd0addd0e82f8b8&unique=e9338b82ed3b010838b1706018c28dc4|User-Agent=KAIOS
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",Sony yay-Rs 19
-https://botallen.live/j/Sony_Yay_Hindi/master.m3u8?signature=935ebee1a26fc28f52ec7f7739a4f702e58237e8&unique=e9338b82ed3b010838b1706018c28dc4|User-Agent=KAIOS
-
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",nicklodeon-Rs 19
+https://ott.bingebd.com/live/ngrp:nickelodeon_all/chunklist.m3u8
