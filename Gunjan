@@ -125,5 +125,7 @@ http://182.176.93.225:8000/play/a01p
 http://182.176.93.225:8000/play/a01o
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",nicklodeon-Rs 19
 https://ott.bingebd.com/live/ngrp:nickelodeon_all/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Kids" tvg-logo="N/A",yay-Rs 19
+https://ott.bingebd.com/live/ngrp:sony_yay_all/chunklist_b3128000.m3u8
 
 
